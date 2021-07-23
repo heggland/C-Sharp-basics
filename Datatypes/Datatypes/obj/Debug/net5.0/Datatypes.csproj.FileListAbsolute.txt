@@ -1,0 +1,15 @@
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass---Udemy\Datatypes\Datatypes\bin\Debug\net5.0\Datatypes.exe
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass---Udemy\Datatypes\Datatypes\bin\Debug\net5.0\Datatypes.deps.json
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass---Udemy\Datatypes\Datatypes\bin\Debug\net5.0\Datatypes.runtimeconfig.json
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass---Udemy\Datatypes\Datatypes\bin\Debug\net5.0\Datatypes.runtimeconfig.dev.json
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass---Udemy\Datatypes\Datatypes\bin\Debug\net5.0\Datatypes.dll
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass---Udemy\Datatypes\Datatypes\bin\Debug\net5.0\ref\Datatypes.dll
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass---Udemy\Datatypes\Datatypes\bin\Debug\net5.0\Datatypes.pdb
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass---Udemy\Datatypes\Datatypes\obj\Debug\net5.0\Datatypes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass---Udemy\Datatypes\Datatypes\obj\Debug\net5.0\Datatypes.AssemblyInfoInputs.cache
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass---Udemy\Datatypes\Datatypes\obj\Debug\net5.0\Datatypes.AssemblyInfo.cs
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass---Udemy\Datatypes\Datatypes\obj\Debug\net5.0\Datatypes.csproj.CoreCompileInputs.cache
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass---Udemy\Datatypes\Datatypes\obj\Debug\net5.0\Datatypes.dll
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass---Udemy\Datatypes\Datatypes\obj\Debug\net5.0\ref\Datatypes.dll
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass---Udemy\Datatypes\Datatypes\obj\Debug\net5.0\Datatypes.pdb
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass---Udemy\Datatypes\Datatypes\obj\Debug\net5.0\Datatypes.genruntimeconfig.cache
