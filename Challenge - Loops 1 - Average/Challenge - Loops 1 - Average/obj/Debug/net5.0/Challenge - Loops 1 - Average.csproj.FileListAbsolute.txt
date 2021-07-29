@@ -1,0 +1,16 @@
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass---Udemy\Challenge - Loops 1 - Average\Challenge - Loops 1 - Average\bin\Debug\net5.0\Challenge - Loops 1 - Average.exe
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass---Udemy\Challenge - Loops 1 - Average\Challenge - Loops 1 - Average\bin\Debug\net5.0\Challenge - Loops 1 - Average.deps.json
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass---Udemy\Challenge - Loops 1 - Average\Challenge - Loops 1 - Average\bin\Debug\net5.0\Challenge - Loops 1 - Average.runtimeconfig.json
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass---Udemy\Challenge - Loops 1 - Average\Challenge - Loops 1 - Average\bin\Debug\net5.0\Challenge - Loops 1 - Average.runtimeconfig.dev.json
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass---Udemy\Challenge - Loops 1 - Average\Challenge - Loops 1 - Average\bin\Debug\net5.0\Challenge - Loops 1 - Average.dll
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass---Udemy\Challenge - Loops 1 - Average\Challenge - Loops 1 - Average\bin\Debug\net5.0\ref\Challenge - Loops 1 - Average.dll
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass---Udemy\Challenge - Loops 1 - Average\Challenge - Loops 1 - Average\bin\Debug\net5.0\Challenge - Loops 1 - Average.pdb
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass---Udemy\Challenge - Loops 1 - Average\Challenge - Loops 1 - Average\obj\Debug\net5.0\Challenge - Loops 1 - Average.csproj.AssemblyReference.cache
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass---Udemy\Challenge - Loops 1 - Average\Challenge - Loops 1 - Average\obj\Debug\net5.0\Challenge - Loops 1 - Average.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass---Udemy\Challenge - Loops 1 - Average\Challenge - Loops 1 - Average\obj\Debug\net5.0\Challenge - Loops 1 - Average.AssemblyInfoInputs.cache
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass---Udemy\Challenge - Loops 1 - Average\Challenge - Loops 1 - Average\obj\Debug\net5.0\Challenge - Loops 1 - Average.AssemblyInfo.cs
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass---Udemy\Challenge - Loops 1 - Average\Challenge - Loops 1 - Average\obj\Debug\net5.0\Challenge - Loops 1 - Average.csproj.CoreCompileInputs.cache
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass---Udemy\Challenge - Loops 1 - Average\Challenge - Loops 1 - Average\obj\Debug\net5.0\Challenge - Loops 1 - Average.dll
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass---Udemy\Challenge - Loops 1 - Average\Challenge - Loops 1 - Average\obj\Debug\net5.0\ref\Challenge - Loops 1 - Average.dll
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass---Udemy\Challenge - Loops 1 - Average\Challenge - Loops 1 - Average\obj\Debug\net5.0\Challenge - Loops 1 - Average.pdb
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass---Udemy\Challenge - Loops 1 - Average\Challenge - Loops 1 - Average\obj\Debug\net5.0\Challenge - Loops 1 - Average.genruntimeconfig.cache

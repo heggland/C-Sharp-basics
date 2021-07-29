@@ -1,0 +1,15 @@
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass---Udemy\highscore\highscore\bin\Debug\net5.0\highscore.exe
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass---Udemy\highscore\highscore\bin\Debug\net5.0\highscore.deps.json
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass---Udemy\highscore\highscore\bin\Debug\net5.0\highscore.runtimeconfig.json
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass---Udemy\highscore\highscore\bin\Debug\net5.0\highscore.runtimeconfig.dev.json
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass---Udemy\highscore\highscore\bin\Debug\net5.0\highscore.dll
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass---Udemy\highscore\highscore\bin\Debug\net5.0\ref\highscore.dll
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass---Udemy\highscore\highscore\bin\Debug\net5.0\highscore.pdb
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass---Udemy\highscore\highscore\obj\Debug\net5.0\highscore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass---Udemy\highscore\highscore\obj\Debug\net5.0\highscore.AssemblyInfoInputs.cache
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass---Udemy\highscore\highscore\obj\Debug\net5.0\highscore.AssemblyInfo.cs
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass---Udemy\highscore\highscore\obj\Debug\net5.0\highscore.csproj.CoreCompileInputs.cache
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass---Udemy\highscore\highscore\obj\Debug\net5.0\highscore.dll
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass---Udemy\highscore\highscore\obj\Debug\net5.0\ref\highscore.dll
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass---Udemy\highscore\highscore\obj\Debug\net5.0\highscore.pdb
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass---Udemy\highscore\highscore\obj\Debug\net5.0\highscore.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass---Udemy\Implicit and Explicit Conversion\Implicit and Explicit Conversion\bin\Debug\net5.0\Implicit and Explicit Conversion.exe
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass---Udemy\Implicit and Explicit Conversion\Implicit and Explicit Conversion\bin\Debug\net5.0\Implicit and Explicit Conversion.deps.json
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass---Udemy\Implicit and Explicit Conversion\Implicit and Explicit Conversion\bin\Debug\net5.0\Implicit and Explicit Conversion.runtimeconfig.json
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass---Udemy\Implicit and Explicit Conversion\Implicit and Explicit Conversion\bin\Debug\net5.0\Implicit and Explicit Conversion.runtimeconfig.dev.json
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass---Udemy\Implicit and Explicit Conversion\Implicit and Explicit Conversion\bin\Debug\net5.0\Implicit and Explicit Conversion.dll
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass---Udemy\Implicit and Explicit Conversion\Implicit and Explicit Conversion\bin\Debug\net5.0\ref\Implicit and Explicit Conversion.dll
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass---Udemy\Implicit and Explicit Conversion\Implicit and Explicit Conversion\bin\Debug\net5.0\Implicit and Explicit Conversion.pdb
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass---Udemy\Implicit and Explicit Conversion\Implicit and Explicit Conversion\obj\Debug\net5.0\Implicit and Explicit Conversion.csproj.AssemblyReference.cache
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass---Udemy\Implicit and Explicit Conversion\Implicit and Explicit Conversion\obj\Debug\net5.0\Implicit and Explicit Conversion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass---Udemy\Implicit and Explicit Conversion\Implicit and Explicit Conversion\obj\Debug\net5.0\Implicit and Explicit Conversion.AssemblyInfoInputs.cache
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass---Udemy\Implicit and Explicit Conversion\Implicit and Explicit Conversion\obj\Debug\net5.0\Implicit and Explicit Conversion.AssemblyInfo.cs
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass---Udemy\Implicit and Explicit Conversion\Implicit and Explicit Conversion\obj\Debug\net5.0\Implicit and Explicit Conversion.csproj.CoreCompileInputs.cache
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass---Udemy\Implicit and Explicit Conversion\Implicit and Explicit Conversion\obj\Debug\net5.0\Implicit and Explicit Conversion.dll
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass---Udemy\Implicit and Explicit Conversion\Implicit and Explicit Conversion\obj\Debug\net5.0\ref\Implicit and Explicit Conversion.dll
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass---Udemy\Implicit and Explicit Conversion\Implicit and Explicit Conversion\obj\Debug\net5.0\Implicit and Explicit Conversion.pdb
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass---Udemy\Implicit and Explicit Conversion\Implicit and Explicit Conversion\obj\Debug\net5.0\Implicit and Explicit Conversion.genruntimeconfig.cache

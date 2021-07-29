@@ -1,0 +1,15 @@
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass---Udemy\enhanced if statement\enhanced if statement\bin\Debug\net5.0\enhanced if statement.exe
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass---Udemy\enhanced if statement\enhanced if statement\bin\Debug\net5.0\enhanced if statement.deps.json
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass---Udemy\enhanced if statement\enhanced if statement\bin\Debug\net5.0\enhanced if statement.runtimeconfig.json
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass---Udemy\enhanced if statement\enhanced if statement\bin\Debug\net5.0\enhanced if statement.runtimeconfig.dev.json
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass---Udemy\enhanced if statement\enhanced if statement\bin\Debug\net5.0\enhanced if statement.dll
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass---Udemy\enhanced if statement\enhanced if statement\bin\Debug\net5.0\ref\enhanced if statement.dll
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass---Udemy\enhanced if statement\enhanced if statement\bin\Debug\net5.0\enhanced if statement.pdb
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass---Udemy\enhanced if statement\enhanced if statement\obj\Debug\net5.0\enhanced if statement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass---Udemy\enhanced if statement\enhanced if statement\obj\Debug\net5.0\enhanced if statement.AssemblyInfoInputs.cache
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass---Udemy\enhanced if statement\enhanced if statement\obj\Debug\net5.0\enhanced if statement.AssemblyInfo.cs
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass---Udemy\enhanced if statement\enhanced if statement\obj\Debug\net5.0\enhanced if statement.csproj.CoreCompileInputs.cache
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass---Udemy\enhanced if statement\enhanced if statement\obj\Debug\net5.0\enhanced if statement.dll
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass---Udemy\enhanced if statement\enhanced if statement\obj\Debug\net5.0\ref\enhanced if statement.dll
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass---Udemy\enhanced if statement\enhanced if statement\obj\Debug\net5.0\enhanced if statement.pdb
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass---Udemy\enhanced if statement\enhanced if statement\obj\Debug\net5.0\enhanced if statement.genruntimeconfig.cache

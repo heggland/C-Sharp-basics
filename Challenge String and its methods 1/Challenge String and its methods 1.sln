@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31424.327
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Challenge String and its methods 1", "Challenge String and its methods 1\Challenge String and its methods 1.csproj", "{B10AB211-563D-4D8B-AD48-FEA2A658352F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B10AB211-563D-4D8B-AD48-FEA2A658352F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B10AB211-563D-4D8B-AD48-FEA2A658352F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B10AB211-563D-4D8B-AD48-FEA2A658352F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B10AB211-563D-4D8B-AD48-FEA2A658352F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E281A44B-8C17-4E2B-BFBB-D199AA378A72}
+	EndGlobalSection
+EndGlobal

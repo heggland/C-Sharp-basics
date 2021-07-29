@@ -1,0 +1,16 @@
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass---Udemy\Functions-Methods\Functions-Methods\bin\Debug\net5.0\Functions-Methods.exe
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass---Udemy\Functions-Methods\Functions-Methods\bin\Debug\net5.0\Functions-Methods.deps.json
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass---Udemy\Functions-Methods\Functions-Methods\bin\Debug\net5.0\Functions-Methods.runtimeconfig.json
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass---Udemy\Functions-Methods\Functions-Methods\bin\Debug\net5.0\Functions-Methods.runtimeconfig.dev.json
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass---Udemy\Functions-Methods\Functions-Methods\bin\Debug\net5.0\Functions-Methods.dll
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass---Udemy\Functions-Methods\Functions-Methods\bin\Debug\net5.0\ref\Functions-Methods.dll
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass---Udemy\Functions-Methods\Functions-Methods\bin\Debug\net5.0\Functions-Methods.pdb
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass---Udemy\Functions-Methods\Functions-Methods\obj\Debug\net5.0\Functions-Methods.csproj.AssemblyReference.cache
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass---Udemy\Functions-Methods\Functions-Methods\obj\Debug\net5.0\Functions-Methods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass---Udemy\Functions-Methods\Functions-Methods\obj\Debug\net5.0\Functions-Methods.AssemblyInfoInputs.cache
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass---Udemy\Functions-Methods\Functions-Methods\obj\Debug\net5.0\Functions-Methods.AssemblyInfo.cs
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass---Udemy\Functions-Methods\Functions-Methods\obj\Debug\net5.0\Functions-Methods.csproj.CoreCompileInputs.cache
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass---Udemy\Functions-Methods\Functions-Methods\obj\Debug\net5.0\Functions-Methods.dll
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass---Udemy\Functions-Methods\Functions-Methods\obj\Debug\net5.0\ref\Functions-Methods.dll
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass---Udemy\Functions-Methods\Functions-Methods\obj\Debug\net5.0\Functions-Methods.pdb
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass---Udemy\Functions-Methods\Functions-Methods\obj\Debug\net5.0\Functions-Methods.genruntimeconfig.cache
