@@ -1,0 +1,16 @@
+C:\Users\Kjetil Heggland\Documents\GitHub\Complete-C-Sharp-Masterclass-Udemy\2DArray and nested for loops\2DArray and nested for loops\bin\Debug\net5.0\2DArray and nested for loops.exe
+C:\Users\Kjetil Heggland\Documents\GitHub\Complete-C-Sharp-Masterclass-Udemy\2DArray and nested for loops\2DArray and nested for loops\bin\Debug\net5.0\2DArray and nested for loops.deps.json
+C:\Users\Kjetil Heggland\Documents\GitHub\Complete-C-Sharp-Masterclass-Udemy\2DArray and nested for loops\2DArray and nested for loops\bin\Debug\net5.0\2DArray and nested for loops.runtimeconfig.json
+C:\Users\Kjetil Heggland\Documents\GitHub\Complete-C-Sharp-Masterclass-Udemy\2DArray and nested for loops\2DArray and nested for loops\bin\Debug\net5.0\2DArray and nested for loops.runtimeconfig.dev.json
+C:\Users\Kjetil Heggland\Documents\GitHub\Complete-C-Sharp-Masterclass-Udemy\2DArray and nested for loops\2DArray and nested for loops\bin\Debug\net5.0\2DArray and nested for loops.dll
+C:\Users\Kjetil Heggland\Documents\GitHub\Complete-C-Sharp-Masterclass-Udemy\2DArray and nested for loops\2DArray and nested for loops\bin\Debug\net5.0\ref\2DArray and nested for loops.dll
+C:\Users\Kjetil Heggland\Documents\GitHub\Complete-C-Sharp-Masterclass-Udemy\2DArray and nested for loops\2DArray and nested for loops\bin\Debug\net5.0\2DArray and nested for loops.pdb
+C:\Users\Kjetil Heggland\Documents\GitHub\Complete-C-Sharp-Masterclass-Udemy\2DArray and nested for loops\2DArray and nested for loops\obj\Debug\net5.0\2DArray and nested for loops.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kjetil Heggland\Documents\GitHub\Complete-C-Sharp-Masterclass-Udemy\2DArray and nested for loops\2DArray and nested for loops\obj\Debug\net5.0\2DArray and nested for loops.AssemblyInfoInputs.cache
+C:\Users\Kjetil Heggland\Documents\GitHub\Complete-C-Sharp-Masterclass-Udemy\2DArray and nested for loops\2DArray and nested for loops\obj\Debug\net5.0\2DArray and nested for loops.AssemblyInfo.cs
+C:\Users\Kjetil Heggland\Documents\GitHub\Complete-C-Sharp-Masterclass-Udemy\2DArray and nested for loops\2DArray and nested for loops\obj\Debug\net5.0\2DArray and nested for loops.csproj.CoreCompileInputs.cache
+C:\Users\Kjetil Heggland\Documents\GitHub\Complete-C-Sharp-Masterclass-Udemy\2DArray and nested for loops\2DArray and nested for loops\obj\Debug\net5.0\2DArray and nested for loops.dll
+C:\Users\Kjetil Heggland\Documents\GitHub\Complete-C-Sharp-Masterclass-Udemy\2DArray and nested for loops\2DArray and nested for loops\obj\Debug\net5.0\ref\2DArray and nested for loops.dll
+C:\Users\Kjetil Heggland\Documents\GitHub\Complete-C-Sharp-Masterclass-Udemy\2DArray and nested for loops\2DArray and nested for loops\obj\Debug\net5.0\2DArray and nested for loops.pdb
+C:\Users\Kjetil Heggland\Documents\GitHub\Complete-C-Sharp-Masterclass-Udemy\2DArray and nested for loops\2DArray and nested for loops\obj\Debug\net5.0\2DArray and nested for loops.genruntimeconfig.cache
+C:\Users\Kjetil Heggland\Documents\GitHub\Complete-C-Sharp-Masterclass-Udemy\2DArray and nested for loops\2DArray and nested for loops\obj\Debug\net5.0\2DArray and nested for loops.csproj.AssemblyReference.cache
