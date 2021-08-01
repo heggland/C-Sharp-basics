@@ -1,0 +1,16 @@
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass---Udemy\members and finalizer-destructors\members and finalizer-destructors\bin\Debug\net5.0\members and finalizer-destructors.exe
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass---Udemy\members and finalizer-destructors\members and finalizer-destructors\bin\Debug\net5.0\members and finalizer-destructors.deps.json
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass---Udemy\members and finalizer-destructors\members and finalizer-destructors\bin\Debug\net5.0\members and finalizer-destructors.runtimeconfig.json
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass---Udemy\members and finalizer-destructors\members and finalizer-destructors\bin\Debug\net5.0\members and finalizer-destructors.runtimeconfig.dev.json
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass---Udemy\members and finalizer-destructors\members and finalizer-destructors\bin\Debug\net5.0\members and finalizer-destructors.dll
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass---Udemy\members and finalizer-destructors\members and finalizer-destructors\bin\Debug\net5.0\ref\members and finalizer-destructors.dll
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass---Udemy\members and finalizer-destructors\members and finalizer-destructors\bin\Debug\net5.0\members and finalizer-destructors.pdb
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass---Udemy\members and finalizer-destructors\members and finalizer-destructors\obj\Debug\net5.0\members and finalizer-destructors.csproj.AssemblyReference.cache
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass---Udemy\members and finalizer-destructors\members and finalizer-destructors\obj\Debug\net5.0\members and finalizer-destructors.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass---Udemy\members and finalizer-destructors\members and finalizer-destructors\obj\Debug\net5.0\members and finalizer-destructors.AssemblyInfoInputs.cache
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass---Udemy\members and finalizer-destructors\members and finalizer-destructors\obj\Debug\net5.0\members and finalizer-destructors.AssemblyInfo.cs
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass---Udemy\members and finalizer-destructors\members and finalizer-destructors\obj\Debug\net5.0\members and finalizer-destructors.csproj.CoreCompileInputs.cache
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass---Udemy\members and finalizer-destructors\members and finalizer-destructors\obj\Debug\net5.0\members and finalizer-destructors.dll
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass---Udemy\members and finalizer-destructors\members and finalizer-destructors\obj\Debug\net5.0\ref\members and finalizer-destructors.dll
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass---Udemy\members and finalizer-destructors\members and finalizer-destructors\obj\Debug\net5.0\members and finalizer-destructors.pdb
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass---Udemy\members and finalizer-destructors\members and finalizer-destructors\obj\Debug\net5.0\members and finalizer-destructors.genruntimeconfig.cache
