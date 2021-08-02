@@ -69,7 +69,7 @@ namespace tic_tac_toe
             }
             else
             {
-                Console.WriteLine("No winners");
+                Console.WriteLine("It is a draw!");
             }
 
         }
@@ -77,17 +77,6 @@ namespace tic_tac_toe
         static void DrawBoard()
         {
             Console.Clear();
-            /*
-            for (int i = 0; i < board.GetLength(0); i++)
-            {
-                for (int j = 0; j < board.GetLength(1); j++)
-                {
-                    Console.Write(board[i, j] + " ");
-                }
-                Console.WriteLine("");
-            }
-            Console.WriteLine("\n");
-            */
 
             Console.WriteLine("     |     |      ");
             Console.WriteLine("  {0}  |  {1}  |  {2}", board[0, 0], board[0, 1], board[0, 2]);
@@ -146,17 +135,10 @@ namespace tic_tac_toe
                 row = 0;
                 switch (move)
                 {
-                    case 1:
-                        col = 0;
-                        break;
-                    case 2:
-                        col = 1;
-                        break;
-                    case 3:
-                        col = 2;
-                        break;
-                    default:
-                        break;
+                    case 1: col = 0; break;
+                    case 2: col = 1; break;
+                    case 3: col = 2; break;
+                    default: break;
                 }
             }
             else if (move == 4 || move == 5 || move == 6)
@@ -164,17 +146,10 @@ namespace tic_tac_toe
                 row = 1;
                 switch (move)
                 {
-                    case 4:
-                        col = 0;
-                        break;
-                    case 5:
-                        col = 1;
-                        break;
-                    case 6:
-                        col = 2;
-                        break;
-                    default:
-                        break;
+                    case 4: col = 0; break; 
+                    case 5: col = 1; break; 
+                    case 6: col = 2; break; 
+                    default: break;
                 }
             }
             else if (move == 7 || move == 8 || move == 9)
@@ -182,17 +157,10 @@ namespace tic_tac_toe
                 row = 2;
                 switch (move)
                 {
-                    case 7:
-                        col = 0;
-                        break;
-                    case 8:
-                        col = 1;
-                        break;
-                    case 9:
-                        col = 2;
-                        break;
-                    default:
-                        break;
+                    case 7: col = 0; break;
+                    case 8: col = 1; break;
+                    case 9: col = 2; break;
+                    default: break;
                 }
             }
 
@@ -212,35 +180,16 @@ namespace tic_tac_toe
         {
             switch (move)
             {
-                case 1:
-                    board[0, 0] = brikke;
-                    break;
-                case 2:
-                    board[0, 1] = brikke;
-                    break;
-                case 3:
-                    board[0, 2] = brikke;
-                    break;
-                case 4:
-                    board[1, 0] = brikke;
-                    break;
-                case 5:
-                    board[1, 1] = brikke;
-                    break;
-                case 6:
-                    board[1, 2] = brikke;
-                    break;
-                case 7:
-                    board[2, 0] = brikke;
-                    break;
-                case 8:
-                    board[2, 1] = brikke;
-                    break;
-                case 9:
-                    board[2, 2] = brikke;
-                    break;
-                default:
-                    break;
+                case 1: board[0, 0] = brikke; break;
+                case 2: board[0, 1] = brikke; break;
+                case 3: board[0, 2] = brikke; break;
+                case 4: board[1, 0] = brikke; break;
+                case 5: board[1, 1] = brikke; break;
+                case 6: board[1, 2] = brikke; break;
+                case 7: board[2, 0] = brikke; break;
+                case 8: board[2, 1] = brikke; break;
+                case 9: board[2, 2] = brikke; break;
+                default: break;
             }
 
             NextPlayer();
@@ -248,14 +197,7 @@ namespace tic_tac_toe
 
         static void NextPlayer()
         {
-            if (brikke.Equals(player2))
-            {
-                brikke = player1;
-            }
-            else
-            {
-                brikke = player2;
-            }
+            if (brikke.Equals(player2)) { brikke = player1; } else { brikke = player2; }
         }
 
 
