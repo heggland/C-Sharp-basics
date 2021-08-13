@@ -1,0 +1,16 @@
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass---Udemy\arrayAsParameter\arrayAsParameter\bin\Debug\net5.0\arrayAsParameter.exe
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass---Udemy\arrayAsParameter\arrayAsParameter\bin\Debug\net5.0\arrayAsParameter.deps.json
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass---Udemy\arrayAsParameter\arrayAsParameter\bin\Debug\net5.0\arrayAsParameter.runtimeconfig.json
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass---Udemy\arrayAsParameter\arrayAsParameter\bin\Debug\net5.0\arrayAsParameter.runtimeconfig.dev.json
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass---Udemy\arrayAsParameter\arrayAsParameter\bin\Debug\net5.0\arrayAsParameter.dll
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass---Udemy\arrayAsParameter\arrayAsParameter\bin\Debug\net5.0\ref\arrayAsParameter.dll
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass---Udemy\arrayAsParameter\arrayAsParameter\bin\Debug\net5.0\arrayAsParameter.pdb
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass---Udemy\arrayAsParameter\arrayAsParameter\obj\Debug\net5.0\arrayAsParameter.csproj.AssemblyReference.cache
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass---Udemy\arrayAsParameter\arrayAsParameter\obj\Debug\net5.0\arrayAsParameter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass---Udemy\arrayAsParameter\arrayAsParameter\obj\Debug\net5.0\arrayAsParameter.AssemblyInfoInputs.cache
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass---Udemy\arrayAsParameter\arrayAsParameter\obj\Debug\net5.0\arrayAsParameter.AssemblyInfo.cs
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass---Udemy\arrayAsParameter\arrayAsParameter\obj\Debug\net5.0\arrayAsParameter.csproj.CoreCompileInputs.cache
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass---Udemy\arrayAsParameter\arrayAsParameter\obj\Debug\net5.0\arrayAsParameter.dll
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass---Udemy\arrayAsParameter\arrayAsParameter\obj\Debug\net5.0\ref\arrayAsParameter.dll
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass---Udemy\arrayAsParameter\arrayAsParameter\obj\Debug\net5.0\arrayAsParameter.pdb
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass---Udemy\arrayAsParameter\arrayAsParameter\obj\Debug\net5.0\arrayAsParameter.genruntimeconfig.cache

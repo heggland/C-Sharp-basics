@@ -1,0 +1,16 @@
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass---Udemy\jaggedArray\jaggedArray\obj\Debug\net5.0\jaggedArray.csproj.AssemblyReference.cache
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass---Udemy\jaggedArray\jaggedArray\obj\Debug\net5.0\jaggedArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass---Udemy\jaggedArray\jaggedArray\obj\Debug\net5.0\jaggedArray.AssemblyInfoInputs.cache
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass---Udemy\jaggedArray\jaggedArray\obj\Debug\net5.0\jaggedArray.AssemblyInfo.cs
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass---Udemy\jaggedArray\jaggedArray\obj\Debug\net5.0\jaggedArray.csproj.CoreCompileInputs.cache
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass---Udemy\jaggedArray\jaggedArray\bin\Debug\net5.0\jaggedArray.exe
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass---Udemy\jaggedArray\jaggedArray\bin\Debug\net5.0\jaggedArray.deps.json
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass---Udemy\jaggedArray\jaggedArray\bin\Debug\net5.0\jaggedArray.runtimeconfig.json
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass---Udemy\jaggedArray\jaggedArray\bin\Debug\net5.0\jaggedArray.runtimeconfig.dev.json
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass---Udemy\jaggedArray\jaggedArray\bin\Debug\net5.0\jaggedArray.dll
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass---Udemy\jaggedArray\jaggedArray\bin\Debug\net5.0\ref\jaggedArray.dll
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass---Udemy\jaggedArray\jaggedArray\bin\Debug\net5.0\jaggedArray.pdb
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass---Udemy\jaggedArray\jaggedArray\obj\Debug\net5.0\jaggedArray.dll
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass---Udemy\jaggedArray\jaggedArray\obj\Debug\net5.0\ref\jaggedArray.dll
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass---Udemy\jaggedArray\jaggedArray\obj\Debug\net5.0\jaggedArray.pdb
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass---Udemy\jaggedArray\jaggedArray\obj\Debug\net5.0\jaggedArray.genruntimeconfig.cache

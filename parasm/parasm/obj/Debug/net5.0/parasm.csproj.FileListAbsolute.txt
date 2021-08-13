@@ -1,0 +1,16 @@
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass---Udemy\parasm\parasm\bin\Debug\net5.0\parasm.exe
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass---Udemy\parasm\parasm\bin\Debug\net5.0\parasm.deps.json
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass---Udemy\parasm\parasm\bin\Debug\net5.0\parasm.runtimeconfig.json
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass---Udemy\parasm\parasm\bin\Debug\net5.0\parasm.runtimeconfig.dev.json
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass---Udemy\parasm\parasm\bin\Debug\net5.0\parasm.dll
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass---Udemy\parasm\parasm\bin\Debug\net5.0\ref\parasm.dll
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass---Udemy\parasm\parasm\bin\Debug\net5.0\parasm.pdb
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass---Udemy\parasm\parasm\obj\Debug\net5.0\parasm.csproj.AssemblyReference.cache
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass---Udemy\parasm\parasm\obj\Debug\net5.0\parasm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass---Udemy\parasm\parasm\obj\Debug\net5.0\parasm.AssemblyInfoInputs.cache
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass---Udemy\parasm\parasm\obj\Debug\net5.0\parasm.AssemblyInfo.cs
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass---Udemy\parasm\parasm\obj\Debug\net5.0\parasm.csproj.CoreCompileInputs.cache
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass---Udemy\parasm\parasm\obj\Debug\net5.0\parasm.dll
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass---Udemy\parasm\parasm\obj\Debug\net5.0\ref\parasm.dll
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass---Udemy\parasm\parasm\obj\Debug\net5.0\parasm.pdb
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass---Udemy\parasm\parasm\obj\Debug\net5.0\parasm.genruntimeconfig.cache

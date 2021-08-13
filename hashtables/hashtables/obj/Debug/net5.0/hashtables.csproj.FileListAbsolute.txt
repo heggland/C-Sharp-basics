@@ -1,0 +1,16 @@
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass---Udemy\hashtables\hashtables\bin\Debug\net5.0\hashtables.exe
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass---Udemy\hashtables\hashtables\bin\Debug\net5.0\hashtables.deps.json
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass---Udemy\hashtables\hashtables\bin\Debug\net5.0\hashtables.runtimeconfig.json
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass---Udemy\hashtables\hashtables\bin\Debug\net5.0\hashtables.runtimeconfig.dev.json
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass---Udemy\hashtables\hashtables\bin\Debug\net5.0\hashtables.dll
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass---Udemy\hashtables\hashtables\bin\Debug\net5.0\ref\hashtables.dll
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass---Udemy\hashtables\hashtables\bin\Debug\net5.0\hashtables.pdb
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass---Udemy\hashtables\hashtables\obj\Debug\net5.0\hashtables.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass---Udemy\hashtables\hashtables\obj\Debug\net5.0\hashtables.AssemblyInfoInputs.cache
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass---Udemy\hashtables\hashtables\obj\Debug\net5.0\hashtables.AssemblyInfo.cs
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass---Udemy\hashtables\hashtables\obj\Debug\net5.0\hashtables.csproj.CoreCompileInputs.cache
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass---Udemy\hashtables\hashtables\obj\Debug\net5.0\hashtables.dll
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass---Udemy\hashtables\hashtables\obj\Debug\net5.0\ref\hashtables.dll
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass---Udemy\hashtables\hashtables\obj\Debug\net5.0\hashtables.pdb
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass---Udemy\hashtables\hashtables\obj\Debug\net5.0\hashtables.genruntimeconfig.cache
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass---Udemy\hashtables\hashtables\obj\Debug\net5.0\hashtables.csproj.AssemblyReference.cache

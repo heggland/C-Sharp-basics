@@ -1,0 +1,16 @@
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass---Udemy\inheritancedemo2\inheritancedemo2\obj\Debug\net5.0\inheritancedemo2.csproj.AssemblyReference.cache
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass---Udemy\inheritancedemo2\inheritancedemo2\obj\Debug\net5.0\inheritancedemo2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass---Udemy\inheritancedemo2\inheritancedemo2\obj\Debug\net5.0\inheritancedemo2.AssemblyInfoInputs.cache
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass---Udemy\inheritancedemo2\inheritancedemo2\obj\Debug\net5.0\inheritancedemo2.AssemblyInfo.cs
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass---Udemy\inheritancedemo2\inheritancedemo2\obj\Debug\net5.0\inheritancedemo2.csproj.CoreCompileInputs.cache
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass---Udemy\inheritancedemo2\inheritancedemo2\bin\Debug\net5.0\inheritancedemo2.exe
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass---Udemy\inheritancedemo2\inheritancedemo2\bin\Debug\net5.0\inheritancedemo2.deps.json
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass---Udemy\inheritancedemo2\inheritancedemo2\bin\Debug\net5.0\inheritancedemo2.runtimeconfig.json
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass---Udemy\inheritancedemo2\inheritancedemo2\bin\Debug\net5.0\inheritancedemo2.runtimeconfig.dev.json
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass---Udemy\inheritancedemo2\inheritancedemo2\bin\Debug\net5.0\inheritancedemo2.dll
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass---Udemy\inheritancedemo2\inheritancedemo2\bin\Debug\net5.0\ref\inheritancedemo2.dll
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass---Udemy\inheritancedemo2\inheritancedemo2\bin\Debug\net5.0\inheritancedemo2.pdb
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass---Udemy\inheritancedemo2\inheritancedemo2\obj\Debug\net5.0\inheritancedemo2.dll
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass---Udemy\inheritancedemo2\inheritancedemo2\obj\Debug\net5.0\ref\inheritancedemo2.dll
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass---Udemy\inheritancedemo2\inheritancedemo2\obj\Debug\net5.0\inheritancedemo2.pdb
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass---Udemy\inheritancedemo2\inheritancedemo2\obj\Debug\net5.0\inheritancedemo2.genruntimeconfig.cache

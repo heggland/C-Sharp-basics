@@ -1,0 +1,16 @@
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass---Udemy\IEnumerator and IEnumerable\IEnumerator and IEnumerable\bin\Debug\net5.0\IEnumerator and IEnumerable.exe
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass---Udemy\IEnumerator and IEnumerable\IEnumerator and IEnumerable\bin\Debug\net5.0\IEnumerator and IEnumerable.deps.json
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass---Udemy\IEnumerator and IEnumerable\IEnumerator and IEnumerable\bin\Debug\net5.0\IEnumerator and IEnumerable.runtimeconfig.json
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass---Udemy\IEnumerator and IEnumerable\IEnumerator and IEnumerable\bin\Debug\net5.0\IEnumerator and IEnumerable.runtimeconfig.dev.json
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass---Udemy\IEnumerator and IEnumerable\IEnumerator and IEnumerable\bin\Debug\net5.0\IEnumerator and IEnumerable.dll
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass---Udemy\IEnumerator and IEnumerable\IEnumerator and IEnumerable\bin\Debug\net5.0\ref\IEnumerator and IEnumerable.dll
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass---Udemy\IEnumerator and IEnumerable\IEnumerator and IEnumerable\bin\Debug\net5.0\IEnumerator and IEnumerable.pdb
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass---Udemy\IEnumerator and IEnumerable\IEnumerator and IEnumerable\obj\Debug\net5.0\IEnumerator and IEnumerable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass---Udemy\IEnumerator and IEnumerable\IEnumerator and IEnumerable\obj\Debug\net5.0\IEnumerator and IEnumerable.AssemblyInfoInputs.cache
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass---Udemy\IEnumerator and IEnumerable\IEnumerator and IEnumerable\obj\Debug\net5.0\IEnumerator and IEnumerable.AssemblyInfo.cs
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass---Udemy\IEnumerator and IEnumerable\IEnumerator and IEnumerable\obj\Debug\net5.0\IEnumerator and IEnumerable.csproj.CoreCompileInputs.cache
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass---Udemy\IEnumerator and IEnumerable\IEnumerator and IEnumerable\obj\Debug\net5.0\IEnumerator and IEnumerable.dll
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass---Udemy\IEnumerator and IEnumerable\IEnumerator and IEnumerable\obj\Debug\net5.0\ref\IEnumerator and IEnumerable.dll
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass---Udemy\IEnumerator and IEnumerable\IEnumerator and IEnumerable\obj\Debug\net5.0\IEnumerator and IEnumerable.pdb
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass---Udemy\IEnumerator and IEnumerable\IEnumerator and IEnumerable\obj\Debug\net5.0\IEnumerator and IEnumerable.genruntimeconfig.cache
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass---Udemy\IEnumerator and IEnumerable\IEnumerator and IEnumerable\obj\Debug\net5.0\IEnumerator and IEnumerable.csproj.AssemblyReference.cache

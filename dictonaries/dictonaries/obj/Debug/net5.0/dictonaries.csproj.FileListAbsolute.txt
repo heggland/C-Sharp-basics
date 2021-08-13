@@ -1,0 +1,16 @@
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass---Udemy\dictonaries\dictonaries\bin\Debug\net5.0\dictonaries.exe
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass---Udemy\dictonaries\dictonaries\bin\Debug\net5.0\dictonaries.deps.json
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass---Udemy\dictonaries\dictonaries\bin\Debug\net5.0\dictonaries.runtimeconfig.json
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass---Udemy\dictonaries\dictonaries\bin\Debug\net5.0\dictonaries.runtimeconfig.dev.json
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass---Udemy\dictonaries\dictonaries\bin\Debug\net5.0\dictonaries.dll
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass---Udemy\dictonaries\dictonaries\bin\Debug\net5.0\ref\dictonaries.dll
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass---Udemy\dictonaries\dictonaries\bin\Debug\net5.0\dictonaries.pdb
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass---Udemy\dictonaries\dictonaries\obj\Debug\net5.0\dictonaries.csproj.AssemblyReference.cache
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass---Udemy\dictonaries\dictonaries\obj\Debug\net5.0\dictonaries.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass---Udemy\dictonaries\dictonaries\obj\Debug\net5.0\dictonaries.AssemblyInfoInputs.cache
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass---Udemy\dictonaries\dictonaries\obj\Debug\net5.0\dictonaries.AssemblyInfo.cs
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass---Udemy\dictonaries\dictonaries\obj\Debug\net5.0\dictonaries.csproj.CoreCompileInputs.cache
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass---Udemy\dictonaries\dictonaries\obj\Debug\net5.0\dictonaries.dll
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass---Udemy\dictonaries\dictonaries\obj\Debug\net5.0\ref\dictonaries.dll
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass---Udemy\dictonaries\dictonaries\obj\Debug\net5.0\dictonaries.pdb
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass---Udemy\dictonaries\dictonaries\obj\Debug\net5.0\dictonaries.genruntimeconfig.cache

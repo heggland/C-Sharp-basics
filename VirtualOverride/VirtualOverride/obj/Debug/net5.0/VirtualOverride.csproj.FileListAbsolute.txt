@@ -1,0 +1,16 @@
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass---Udemy\VirtualOverride\VirtualOverride\bin\Debug\net5.0\VirtualOverride.exe
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass---Udemy\VirtualOverride\VirtualOverride\bin\Debug\net5.0\VirtualOverride.deps.json
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass---Udemy\VirtualOverride\VirtualOverride\bin\Debug\net5.0\VirtualOverride.runtimeconfig.json
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass---Udemy\VirtualOverride\VirtualOverride\bin\Debug\net5.0\VirtualOverride.runtimeconfig.dev.json
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass---Udemy\VirtualOverride\VirtualOverride\bin\Debug\net5.0\VirtualOverride.dll
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass---Udemy\VirtualOverride\VirtualOverride\bin\Debug\net5.0\ref\VirtualOverride.dll
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass---Udemy\VirtualOverride\VirtualOverride\bin\Debug\net5.0\VirtualOverride.pdb
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass---Udemy\VirtualOverride\VirtualOverride\obj\Debug\net5.0\VirtualOverride.csproj.AssemblyReference.cache
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass---Udemy\VirtualOverride\VirtualOverride\obj\Debug\net5.0\VirtualOverride.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass---Udemy\VirtualOverride\VirtualOverride\obj\Debug\net5.0\VirtualOverride.AssemblyInfoInputs.cache
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass---Udemy\VirtualOverride\VirtualOverride\obj\Debug\net5.0\VirtualOverride.AssemblyInfo.cs
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass---Udemy\VirtualOverride\VirtualOverride\obj\Debug\net5.0\VirtualOverride.csproj.CoreCompileInputs.cache
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass---Udemy\VirtualOverride\VirtualOverride\obj\Debug\net5.0\VirtualOverride.dll
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass---Udemy\VirtualOverride\VirtualOverride\obj\Debug\net5.0\ref\VirtualOverride.dll
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass---Udemy\VirtualOverride\VirtualOverride\obj\Debug\net5.0\VirtualOverride.pdb
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass---Udemy\VirtualOverride\VirtualOverride\obj\Debug\net5.0\VirtualOverride.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass---Udemy\Challenge 2 - Inheritance\Challenge 2 - Inheritance\bin\Debug\net5.0\Challenge 2 - Inheritance.exe
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass---Udemy\Challenge 2 - Inheritance\Challenge 2 - Inheritance\bin\Debug\net5.0\Challenge 2 - Inheritance.deps.json
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass---Udemy\Challenge 2 - Inheritance\Challenge 2 - Inheritance\bin\Debug\net5.0\Challenge 2 - Inheritance.runtimeconfig.json
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass---Udemy\Challenge 2 - Inheritance\Challenge 2 - Inheritance\bin\Debug\net5.0\Challenge 2 - Inheritance.runtimeconfig.dev.json
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass---Udemy\Challenge 2 - Inheritance\Challenge 2 - Inheritance\bin\Debug\net5.0\Challenge 2 - Inheritance.dll
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass---Udemy\Challenge 2 - Inheritance\Challenge 2 - Inheritance\bin\Debug\net5.0\ref\Challenge 2 - Inheritance.dll
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass---Udemy\Challenge 2 - Inheritance\Challenge 2 - Inheritance\bin\Debug\net5.0\Challenge 2 - Inheritance.pdb
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass---Udemy\Challenge 2 - Inheritance\Challenge 2 - Inheritance\obj\Debug\net5.0\Challenge 2 - Inheritance.csproj.AssemblyReference.cache
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass---Udemy\Challenge 2 - Inheritance\Challenge 2 - Inheritance\obj\Debug\net5.0\Challenge 2 - Inheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass---Udemy\Challenge 2 - Inheritance\Challenge 2 - Inheritance\obj\Debug\net5.0\Challenge 2 - Inheritance.AssemblyInfoInputs.cache
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass---Udemy\Challenge 2 - Inheritance\Challenge 2 - Inheritance\obj\Debug\net5.0\Challenge 2 - Inheritance.AssemblyInfo.cs
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass---Udemy\Challenge 2 - Inheritance\Challenge 2 - Inheritance\obj\Debug\net5.0\Challenge 2 - Inheritance.csproj.CoreCompileInputs.cache
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass---Udemy\Challenge 2 - Inheritance\Challenge 2 - Inheritance\obj\Debug\net5.0\Challenge 2 - Inheritance.dll
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass---Udemy\Challenge 2 - Inheritance\Challenge 2 - Inheritance\obj\Debug\net5.0\ref\Challenge 2 - Inheritance.dll
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass---Udemy\Challenge 2 - Inheritance\Challenge 2 - Inheritance\obj\Debug\net5.0\Challenge 2 - Inheritance.pdb
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass---Udemy\Challenge 2 - Inheritance\Challenge 2 - Inheritance\obj\Debug\net5.0\Challenge 2 - Inheritance.genruntimeconfig.cache

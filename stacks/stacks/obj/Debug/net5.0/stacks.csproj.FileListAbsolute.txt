@@ -1,0 +1,16 @@
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass---Udemy\stacks\stacks\bin\Debug\net5.0\stacks.exe
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass---Udemy\stacks\stacks\bin\Debug\net5.0\stacks.deps.json
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass---Udemy\stacks\stacks\bin\Debug\net5.0\stacks.runtimeconfig.json
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass---Udemy\stacks\stacks\bin\Debug\net5.0\stacks.runtimeconfig.dev.json
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass---Udemy\stacks\stacks\bin\Debug\net5.0\stacks.dll
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass---Udemy\stacks\stacks\bin\Debug\net5.0\ref\stacks.dll
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass---Udemy\stacks\stacks\bin\Debug\net5.0\stacks.pdb
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass---Udemy\stacks\stacks\obj\Debug\net5.0\stacks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass---Udemy\stacks\stacks\obj\Debug\net5.0\stacks.AssemblyInfoInputs.cache
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass---Udemy\stacks\stacks\obj\Debug\net5.0\stacks.AssemblyInfo.cs
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass---Udemy\stacks\stacks\obj\Debug\net5.0\stacks.csproj.CoreCompileInputs.cache
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass---Udemy\stacks\stacks\obj\Debug\net5.0\stacks.dll
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass---Udemy\stacks\stacks\obj\Debug\net5.0\ref\stacks.dll
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass---Udemy\stacks\stacks\obj\Debug\net5.0\stacks.pdb
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass---Udemy\stacks\stacks\obj\Debug\net5.0\stacks.genruntimeconfig.cache
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass---Udemy\stacks\stacks\obj\Debug\net5.0\stacks.csproj.AssemblyReference.cache

@@ -1,0 +1,16 @@
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass---Udemy\interfaceDemo\interfaceDemo\bin\Debug\net5.0\interfaceDemo.exe
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass---Udemy\interfaceDemo\interfaceDemo\bin\Debug\net5.0\interfaceDemo.deps.json
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass---Udemy\interfaceDemo\interfaceDemo\bin\Debug\net5.0\interfaceDemo.runtimeconfig.json
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass---Udemy\interfaceDemo\interfaceDemo\bin\Debug\net5.0\interfaceDemo.runtimeconfig.dev.json
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass---Udemy\interfaceDemo\interfaceDemo\bin\Debug\net5.0\interfaceDemo.dll
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass---Udemy\interfaceDemo\interfaceDemo\bin\Debug\net5.0\ref\interfaceDemo.dll
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass---Udemy\interfaceDemo\interfaceDemo\bin\Debug\net5.0\interfaceDemo.pdb
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass---Udemy\interfaceDemo\interfaceDemo\obj\Debug\net5.0\interfaceDemo.csproj.AssemblyReference.cache
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass---Udemy\interfaceDemo\interfaceDemo\obj\Debug\net5.0\interfaceDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass---Udemy\interfaceDemo\interfaceDemo\obj\Debug\net5.0\interfaceDemo.AssemblyInfoInputs.cache
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass---Udemy\interfaceDemo\interfaceDemo\obj\Debug\net5.0\interfaceDemo.AssemblyInfo.cs
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass---Udemy\interfaceDemo\interfaceDemo\obj\Debug\net5.0\interfaceDemo.csproj.CoreCompileInputs.cache
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass---Udemy\interfaceDemo\interfaceDemo\obj\Debug\net5.0\interfaceDemo.dll
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass---Udemy\interfaceDemo\interfaceDemo\obj\Debug\net5.0\ref\interfaceDemo.dll
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass---Udemy\interfaceDemo\interfaceDemo\obj\Debug\net5.0\interfaceDemo.pdb
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass---Udemy\interfaceDemo\interfaceDemo\obj\Debug\net5.0\interfaceDemo.genruntimeconfig.cache
