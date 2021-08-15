@@ -8,19 +8,24 @@ namespace Polymorphism
 {
     class Audi : Car
     {
-        public string Model { get; set; }
 
         private string Brand = "Audi";
+        public string Model { get; set; }
 
         public Audi(int HP, string Color, string Model) : base(HP, Color)
         {
             this.Model = Model;
         }
 
-        public override void ShowDetails()
+        public new void ShowDetails()
         {
             base.ShowDetails();
             Console.WriteLine($"Brand: {Brand}");
+        }
+
+        public override void Repair()
+        {
+            Console.WriteLine($"{Brand} {Model} car was repaired!");
         }
 
         public void Status()
@@ -35,6 +40,5 @@ namespace Polymorphism
                 Console.WriteLine(base.HP);
             }
         }
-
     }
 }

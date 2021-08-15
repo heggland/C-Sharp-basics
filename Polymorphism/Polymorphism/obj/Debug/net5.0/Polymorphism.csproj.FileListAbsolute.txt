@@ -13,3 +13,4 @@ C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass---Udemy\Polymorp
 C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass---Udemy\Polymorphism\Polymorphism\obj\Debug\net5.0\ref\Polymorphism.dll
 C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass---Udemy\Polymorphism\Polymorphism\obj\Debug\net5.0\Polymorphism.pdb
 C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass---Udemy\Polymorphism\Polymorphism\obj\Debug\net5.0\Polymorphism.genruntimeconfig.cache
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass---Udemy\Polymorphism\Polymorphism\obj\Debug\net5.0\Polymorphism.csproj.AssemblyReference.cache
