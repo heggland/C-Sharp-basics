@@ -1,0 +1,16 @@
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass---Udemy\Enums\Enums\bin\Debug\net5.0\Enums.exe
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass---Udemy\Enums\Enums\bin\Debug\net5.0\Enums.deps.json
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass---Udemy\Enums\Enums\bin\Debug\net5.0\Enums.runtimeconfig.json
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass---Udemy\Enums\Enums\bin\Debug\net5.0\Enums.runtimeconfig.dev.json
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass---Udemy\Enums\Enums\bin\Debug\net5.0\Enums.dll
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass---Udemy\Enums\Enums\bin\Debug\net5.0\ref\Enums.dll
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass---Udemy\Enums\Enums\bin\Debug\net5.0\Enums.pdb
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass---Udemy\Enums\Enums\obj\Debug\net5.0\Enums.csproj.AssemblyReference.cache
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass---Udemy\Enums\Enums\obj\Debug\net5.0\Enums.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass---Udemy\Enums\Enums\obj\Debug\net5.0\Enums.AssemblyInfoInputs.cache
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass---Udemy\Enums\Enums\obj\Debug\net5.0\Enums.AssemblyInfo.cs
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass---Udemy\Enums\Enums\obj\Debug\net5.0\Enums.csproj.CoreCompileInputs.cache
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass---Udemy\Enums\Enums\obj\Debug\net5.0\Enums.dll
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass---Udemy\Enums\Enums\obj\Debug\net5.0\ref\Enums.dll
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass---Udemy\Enums\Enums\obj\Debug\net5.0\Enums.pdb
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass---Udemy\Enums\Enums\obj\Debug\net5.0\Enums.genruntimeconfig.cache

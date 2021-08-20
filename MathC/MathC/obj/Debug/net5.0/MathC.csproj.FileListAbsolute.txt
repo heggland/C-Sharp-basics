@@ -1,0 +1,16 @@
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass---Udemy\MathC\MathC\bin\Debug\net5.0\MathC.exe
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass---Udemy\MathC\MathC\bin\Debug\net5.0\MathC.deps.json
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass---Udemy\MathC\MathC\bin\Debug\net5.0\MathC.runtimeconfig.json
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass---Udemy\MathC\MathC\bin\Debug\net5.0\MathC.runtimeconfig.dev.json
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass---Udemy\MathC\MathC\bin\Debug\net5.0\MathC.dll
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass---Udemy\MathC\MathC\bin\Debug\net5.0\ref\MathC.dll
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass---Udemy\MathC\MathC\bin\Debug\net5.0\MathC.pdb
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass---Udemy\MathC\MathC\obj\Debug\net5.0\MathC.csproj.AssemblyReference.cache
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass---Udemy\MathC\MathC\obj\Debug\net5.0\MathC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass---Udemy\MathC\MathC\obj\Debug\net5.0\MathC.AssemblyInfoInputs.cache
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass---Udemy\MathC\MathC\obj\Debug\net5.0\MathC.AssemblyInfo.cs
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass---Udemy\MathC\MathC\obj\Debug\net5.0\MathC.csproj.CoreCompileInputs.cache
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass---Udemy\MathC\MathC\obj\Debug\net5.0\MathC.dll
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass---Udemy\MathC\MathC\obj\Debug\net5.0\ref\MathC.dll
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass---Udemy\MathC\MathC\obj\Debug\net5.0\MathC.pdb
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass---Udemy\MathC\MathC\obj\Debug\net5.0\MathC.genruntimeconfig.cache
