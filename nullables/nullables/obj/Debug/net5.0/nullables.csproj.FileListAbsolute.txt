@@ -1,0 +1,15 @@
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass---Udemy\nullables\nullables\bin\Debug\net5.0\nullables.exe
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass---Udemy\nullables\nullables\bin\Debug\net5.0\nullables.deps.json
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass---Udemy\nullables\nullables\bin\Debug\net5.0\nullables.runtimeconfig.json
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass---Udemy\nullables\nullables\bin\Debug\net5.0\nullables.runtimeconfig.dev.json
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass---Udemy\nullables\nullables\bin\Debug\net5.0\nullables.dll
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass---Udemy\nullables\nullables\bin\Debug\net5.0\ref\nullables.dll
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass---Udemy\nullables\nullables\bin\Debug\net5.0\nullables.pdb
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass---Udemy\nullables\nullables\obj\Debug\net5.0\nullables.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass---Udemy\nullables\nullables\obj\Debug\net5.0\nullables.AssemblyInfoInputs.cache
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass---Udemy\nullables\nullables\obj\Debug\net5.0\nullables.AssemblyInfo.cs
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass---Udemy\nullables\nullables\obj\Debug\net5.0\nullables.csproj.CoreCompileInputs.cache
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass---Udemy\nullables\nullables\obj\Debug\net5.0\nullables.dll
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass---Udemy\nullables\nullables\obj\Debug\net5.0\ref\nullables.dll
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass---Udemy\nullables\nullables\obj\Debug\net5.0\nullables.pdb
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass---Udemy\nullables\nullables\obj\Debug\net5.0\nullables.genruntimeconfig.cache

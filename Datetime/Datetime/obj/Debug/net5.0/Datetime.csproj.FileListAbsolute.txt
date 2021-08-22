@@ -1,0 +1,16 @@
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass---Udemy\Datetime\Datetime\bin\Debug\net5.0\Datetime.exe
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass---Udemy\Datetime\Datetime\bin\Debug\net5.0\Datetime.deps.json
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass---Udemy\Datetime\Datetime\bin\Debug\net5.0\Datetime.runtimeconfig.json
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass---Udemy\Datetime\Datetime\bin\Debug\net5.0\Datetime.runtimeconfig.dev.json
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass---Udemy\Datetime\Datetime\bin\Debug\net5.0\Datetime.dll
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass---Udemy\Datetime\Datetime\bin\Debug\net5.0\ref\Datetime.dll
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass---Udemy\Datetime\Datetime\bin\Debug\net5.0\Datetime.pdb
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass---Udemy\Datetime\Datetime\obj\Debug\net5.0\Datetime.csproj.AssemblyReference.cache
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass---Udemy\Datetime\Datetime\obj\Debug\net5.0\Datetime.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass---Udemy\Datetime\Datetime\obj\Debug\net5.0\Datetime.AssemblyInfoInputs.cache
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass---Udemy\Datetime\Datetime\obj\Debug\net5.0\Datetime.AssemblyInfo.cs
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass---Udemy\Datetime\Datetime\obj\Debug\net5.0\Datetime.csproj.CoreCompileInputs.cache
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass---Udemy\Datetime\Datetime\obj\Debug\net5.0\Datetime.dll
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass---Udemy\Datetime\Datetime\obj\Debug\net5.0\ref\Datetime.dll
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass---Udemy\Datetime\Datetime\obj\Debug\net5.0\Datetime.pdb
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass---Udemy\Datetime\Datetime\obj\Debug\net5.0\Datetime.genruntimeconfig.cache
