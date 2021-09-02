@@ -1,0 +1,16 @@
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass---Udemy\RegexE\RegexE\bin\Debug\net5.0\RegexE.exe
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass---Udemy\RegexE\RegexE\bin\Debug\net5.0\RegexE.deps.json
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass---Udemy\RegexE\RegexE\bin\Debug\net5.0\RegexE.runtimeconfig.json
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass---Udemy\RegexE\RegexE\bin\Debug\net5.0\RegexE.runtimeconfig.dev.json
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass---Udemy\RegexE\RegexE\bin\Debug\net5.0\RegexE.dll
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass---Udemy\RegexE\RegexE\bin\Debug\net5.0\ref\RegexE.dll
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass---Udemy\RegexE\RegexE\bin\Debug\net5.0\RegexE.pdb
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass---Udemy\RegexE\RegexE\obj\Debug\net5.0\RegexE.csproj.AssemblyReference.cache
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass---Udemy\RegexE\RegexE\obj\Debug\net5.0\RegexE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass---Udemy\RegexE\RegexE\obj\Debug\net5.0\RegexE.AssemblyInfoInputs.cache
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass---Udemy\RegexE\RegexE\obj\Debug\net5.0\RegexE.AssemblyInfo.cs
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass---Udemy\RegexE\RegexE\obj\Debug\net5.0\RegexE.csproj.CoreCompileInputs.cache
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass---Udemy\RegexE\RegexE\obj\Debug\net5.0\RegexE.dll
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass---Udemy\RegexE\RegexE\obj\Debug\net5.0\ref\RegexE.dll
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass---Udemy\RegexE\RegexE\obj\Debug\net5.0\RegexE.pdb
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass---Udemy\RegexE\RegexE\obj\Debug\net5.0\RegexE.genruntimeconfig.cache
