@@ -1,0 +1,14 @@
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass-Udemy\MainArgsDemo\MainArgsDemo\bin\Debug\netcoreapp3.1\MainArgsDemo.exe
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass-Udemy\MainArgsDemo\MainArgsDemo\bin\Debug\netcoreapp3.1\MainArgsDemo.deps.json
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass-Udemy\MainArgsDemo\MainArgsDemo\bin\Debug\netcoreapp3.1\MainArgsDemo.runtimeconfig.json
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass-Udemy\MainArgsDemo\MainArgsDemo\bin\Debug\netcoreapp3.1\MainArgsDemo.runtimeconfig.dev.json
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass-Udemy\MainArgsDemo\MainArgsDemo\bin\Debug\netcoreapp3.1\MainArgsDemo.dll
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass-Udemy\MainArgsDemo\MainArgsDemo\bin\Debug\netcoreapp3.1\MainArgsDemo.pdb
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass-Udemy\MainArgsDemo\MainArgsDemo\obj\Debug\netcoreapp3.1\MainArgsDemo.csproj.AssemblyReference.cache
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass-Udemy\MainArgsDemo\MainArgsDemo\obj\Debug\netcoreapp3.1\MainArgsDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass-Udemy\MainArgsDemo\MainArgsDemo\obj\Debug\netcoreapp3.1\MainArgsDemo.AssemblyInfoInputs.cache
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass-Udemy\MainArgsDemo\MainArgsDemo\obj\Debug\netcoreapp3.1\MainArgsDemo.AssemblyInfo.cs
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass-Udemy\MainArgsDemo\MainArgsDemo\obj\Debug\netcoreapp3.1\MainArgsDemo.csproj.CoreCompileInputs.cache
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass-Udemy\MainArgsDemo\MainArgsDemo\obj\Debug\netcoreapp3.1\MainArgsDemo.dll
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass-Udemy\MainArgsDemo\MainArgsDemo\obj\Debug\netcoreapp3.1\MainArgsDemo.pdb
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass-Udemy\MainArgsDemo\MainArgsDemo\obj\Debug\netcoreapp3.1\MainArgsDemo.genruntimeconfig.cache

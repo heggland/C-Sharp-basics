@@ -1,0 +1,14 @@
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass-Udemy\EventsAndMulticaseDelegates\EventsAndMulticaseDelegates\bin\Debug\netcoreapp3.1\EventsAndMulticaseDelegates.exe
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass-Udemy\EventsAndMulticaseDelegates\EventsAndMulticaseDelegates\bin\Debug\netcoreapp3.1\EventsAndMulticaseDelegates.deps.json
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass-Udemy\EventsAndMulticaseDelegates\EventsAndMulticaseDelegates\bin\Debug\netcoreapp3.1\EventsAndMulticaseDelegates.runtimeconfig.json
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass-Udemy\EventsAndMulticaseDelegates\EventsAndMulticaseDelegates\bin\Debug\netcoreapp3.1\EventsAndMulticaseDelegates.runtimeconfig.dev.json
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass-Udemy\EventsAndMulticaseDelegates\EventsAndMulticaseDelegates\bin\Debug\netcoreapp3.1\EventsAndMulticaseDelegates.dll
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass-Udemy\EventsAndMulticaseDelegates\EventsAndMulticaseDelegates\bin\Debug\netcoreapp3.1\EventsAndMulticaseDelegates.pdb
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass-Udemy\EventsAndMulticaseDelegates\EventsAndMulticaseDelegates\obj\Debug\netcoreapp3.1\EventsAndMulticaseDelegates.csproj.AssemblyReference.cache
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass-Udemy\EventsAndMulticaseDelegates\EventsAndMulticaseDelegates\obj\Debug\netcoreapp3.1\EventsAndMulticaseDelegates.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass-Udemy\EventsAndMulticaseDelegates\EventsAndMulticaseDelegates\obj\Debug\netcoreapp3.1\EventsAndMulticaseDelegates.AssemblyInfoInputs.cache
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass-Udemy\EventsAndMulticaseDelegates\EventsAndMulticaseDelegates\obj\Debug\netcoreapp3.1\EventsAndMulticaseDelegates.AssemblyInfo.cs
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass-Udemy\EventsAndMulticaseDelegates\EventsAndMulticaseDelegates\obj\Debug\netcoreapp3.1\EventsAndMulticaseDelegates.csproj.CoreCompileInputs.cache
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass-Udemy\EventsAndMulticaseDelegates\EventsAndMulticaseDelegates\obj\Debug\netcoreapp3.1\EventsAndMulticaseDelegates.dll
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass-Udemy\EventsAndMulticaseDelegates\EventsAndMulticaseDelegates\obj\Debug\netcoreapp3.1\EventsAndMulticaseDelegates.pdb
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass-Udemy\EventsAndMulticaseDelegates\EventsAndMulticaseDelegates\obj\Debug\netcoreapp3.1\EventsAndMulticaseDelegates.genruntimeconfig.cache

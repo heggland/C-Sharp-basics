@@ -1,0 +1,13 @@
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass-Udemy\abstracts\abstracts\bin\Debug\netcoreapp3.1\abstracts.exe
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass-Udemy\abstracts\abstracts\bin\Debug\netcoreapp3.1\abstracts.deps.json
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass-Udemy\abstracts\abstracts\bin\Debug\netcoreapp3.1\abstracts.runtimeconfig.json
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass-Udemy\abstracts\abstracts\bin\Debug\netcoreapp3.1\abstracts.runtimeconfig.dev.json
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass-Udemy\abstracts\abstracts\bin\Debug\netcoreapp3.1\abstracts.dll
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass-Udemy\abstracts\abstracts\bin\Debug\netcoreapp3.1\abstracts.pdb
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass-Udemy\abstracts\abstracts\obj\Debug\netcoreapp3.1\abstracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass-Udemy\abstracts\abstracts\obj\Debug\netcoreapp3.1\abstracts.AssemblyInfoInputs.cache
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass-Udemy\abstracts\abstracts\obj\Debug\netcoreapp3.1\abstracts.AssemblyInfo.cs
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass-Udemy\abstracts\abstracts\obj\Debug\netcoreapp3.1\abstracts.csproj.CoreCompileInputs.cache
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass-Udemy\abstracts\abstracts\obj\Debug\netcoreapp3.1\abstracts.dll
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass-Udemy\abstracts\abstracts\obj\Debug\netcoreapp3.1\abstracts.pdb
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass-Udemy\abstracts\abstracts\obj\Debug\netcoreapp3.1\abstracts.genruntimeconfig.cache
