@@ -1,0 +1,22 @@
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass-Udemy\WPF - Grid\WPF - Grid\bin\Debug\net5.0-windows\WPF - Grid.exe
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass-Udemy\WPF - Grid\WPF - Grid\bin\Debug\net5.0-windows\WPF - Grid.deps.json
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass-Udemy\WPF - Grid\WPF - Grid\bin\Debug\net5.0-windows\WPF - Grid.runtimeconfig.json
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass-Udemy\WPF - Grid\WPF - Grid\bin\Debug\net5.0-windows\WPF - Grid.runtimeconfig.dev.json
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass-Udemy\WPF - Grid\WPF - Grid\bin\Debug\net5.0-windows\WPF - Grid.dll
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass-Udemy\WPF - Grid\WPF - Grid\bin\Debug\net5.0-windows\ref\WPF - Grid.dll
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass-Udemy\WPF - Grid\WPF - Grid\bin\Debug\net5.0-windows\WPF - Grid.pdb
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass-Udemy\WPF - Grid\WPF - Grid\obj\Debug\net5.0-windows\WPF - Grid.csproj.AssemblyReference.cache
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass-Udemy\WPF - Grid\WPF - Grid\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass-Udemy\WPF - Grid\WPF - Grid\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass-Udemy\WPF - Grid\WPF - Grid\obj\Debug\net5.0-windows\WPF - Grid_MarkupCompile.cache
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass-Udemy\WPF - Grid\WPF - Grid\obj\Debug\net5.0-windows\WPF - Grid_MarkupCompile.lref
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass-Udemy\WPF - Grid\WPF - Grid\obj\Debug\net5.0-windows\MainWindow.baml
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass-Udemy\WPF - Grid\WPF - Grid\obj\Debug\net5.0-windows\WPF - Grid.g.resources
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass-Udemy\WPF - Grid\WPF - Grid\obj\Debug\net5.0-windows\WPF - Grid.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass-Udemy\WPF - Grid\WPF - Grid\obj\Debug\net5.0-windows\WPF - Grid.AssemblyInfoInputs.cache
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass-Udemy\WPF - Grid\WPF - Grid\obj\Debug\net5.0-windows\WPF - Grid.AssemblyInfo.cs
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass-Udemy\WPF - Grid\WPF - Grid\obj\Debug\net5.0-windows\WPF - Grid.csproj.CoreCompileInputs.cache
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass-Udemy\WPF - Grid\WPF - Grid\obj\Debug\net5.0-windows\WPF - Grid.dll
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass-Udemy\WPF - Grid\WPF - Grid\obj\Debug\net5.0-windows\ref\WPF - Grid.dll
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass-Udemy\WPF - Grid\WPF - Grid\obj\Debug\net5.0-windows\WPF - Grid.pdb
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass-Udemy\WPF - Grid\WPF - Grid\obj\Debug\net5.0-windows\WPF - Grid.genruntimeconfig.cache

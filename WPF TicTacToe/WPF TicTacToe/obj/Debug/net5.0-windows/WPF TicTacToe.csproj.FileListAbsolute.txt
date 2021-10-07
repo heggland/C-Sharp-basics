@@ -1,0 +1,29 @@
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass-Udemy\WPF TicTacToe\WPF TicTacToe\bin\Debug\net5.0-windows\WPF TicTacToe.exe
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass-Udemy\WPF TicTacToe\WPF TicTacToe\bin\Debug\net5.0-windows\WPF TicTacToe.deps.json
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass-Udemy\WPF TicTacToe\WPF TicTacToe\bin\Debug\net5.0-windows\WPF TicTacToe.runtimeconfig.json
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass-Udemy\WPF TicTacToe\WPF TicTacToe\bin\Debug\net5.0-windows\WPF TicTacToe.runtimeconfig.dev.json
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass-Udemy\WPF TicTacToe\WPF TicTacToe\bin\Debug\net5.0-windows\WPF TicTacToe.dll
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass-Udemy\WPF TicTacToe\WPF TicTacToe\bin\Debug\net5.0-windows\ref\WPF TicTacToe.dll
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass-Udemy\WPF TicTacToe\WPF TicTacToe\bin\Debug\net5.0-windows\WPF TicTacToe.pdb
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass-Udemy\WPF TicTacToe\WPF TicTacToe\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass-Udemy\WPF TicTacToe\WPF TicTacToe\obj\Debug\net5.0-windows\WPF TicTacToe_MarkupCompile.cache
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass-Udemy\WPF TicTacToe\WPF TicTacToe\obj\Debug\net5.0-windows\WPF TicTacToe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass-Udemy\WPF TicTacToe\WPF TicTacToe\obj\Debug\net5.0-windows\WPF TicTacToe.AssemblyInfoInputs.cache
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass-Udemy\WPF TicTacToe\WPF TicTacToe\obj\Debug\net5.0-windows\WPF TicTacToe.AssemblyInfo.cs
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass-Udemy\WPF TicTacToe\WPF TicTacToe\obj\Debug\net5.0-windows\WPF TicTacToe.csproj.CoreCompileInputs.cache
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass-Udemy\WPF TicTacToe\WPF TicTacToe\obj\Debug\net5.0-windows\WPF TicTacToe.dll
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass-Udemy\WPF TicTacToe\WPF TicTacToe\obj\Debug\net5.0-windows\ref\WPF TicTacToe.dll
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass-Udemy\WPF TicTacToe\WPF TicTacToe\obj\Debug\net5.0-windows\WPF TicTacToe.pdb
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass-Udemy\WPF TicTacToe\WPF TicTacToe\obj\Debug\net5.0-windows\WPF TicTacToe.genruntimeconfig.cache
+C:\Users\heggland\Documents\net5.0-windows\WPF TicTacToe.exe
+C:\Users\heggland\Documents\net5.0-windows\WPF TicTacToe.deps.json
+C:\Users\heggland\Documents\net5.0-windows\WPF TicTacToe.runtimeconfig.json
+C:\Users\heggland\Documents\net5.0-windows\WPF TicTacToe.runtimeconfig.dev.json
+C:\Users\heggland\Documents\net5.0-windows\WPF TicTacToe.dll
+C:\Users\heggland\Documents\net5.0-windows\ref\WPF TicTacToe.dll
+C:\Users\heggland\Documents\net5.0-windows\WPF TicTacToe.pdb
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass-Udemy\WPF TicTacToe\WPF TicTacToe\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass-Udemy\WPF TicTacToe\WPF TicTacToe\obj\Debug\net5.0-windows\WPF TicTacToe_MarkupCompile.lref
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass-Udemy\WPF TicTacToe\WPF TicTacToe\obj\Debug\net5.0-windows\MainWindow.baml
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass-Udemy\WPF TicTacToe\WPF TicTacToe\obj\Debug\net5.0-windows\WPF TicTacToe.g.resources
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass-Udemy\WPF TicTacToe\WPF TicTacToe\obj\Debug\net5.0-windows\WPF TicTacToe.csproj.AssemblyReference.cache

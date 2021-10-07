@@ -1,0 +1,22 @@
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass-Udemy\WPF ComboBox\WPF ComboBox\obj\Debug\net5.0-windows\WPF ComboBox.csproj.AssemblyReference.cache
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass-Udemy\WPF ComboBox\WPF ComboBox\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass-Udemy\WPF ComboBox\WPF ComboBox\obj\Debug\net5.0-windows\WPF ComboBox_MarkupCompile.cache
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass-Udemy\WPF ComboBox\WPF ComboBox\bin\Debug\net5.0-windows\WPF ComboBox.exe
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass-Udemy\WPF ComboBox\WPF ComboBox\bin\Debug\net5.0-windows\WPF ComboBox.deps.json
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass-Udemy\WPF ComboBox\WPF ComboBox\bin\Debug\net5.0-windows\WPF ComboBox.runtimeconfig.json
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass-Udemy\WPF ComboBox\WPF ComboBox\bin\Debug\net5.0-windows\WPF ComboBox.runtimeconfig.dev.json
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass-Udemy\WPF ComboBox\WPF ComboBox\bin\Debug\net5.0-windows\WPF ComboBox.dll
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass-Udemy\WPF ComboBox\WPF ComboBox\bin\Debug\net5.0-windows\ref\WPF ComboBox.dll
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass-Udemy\WPF ComboBox\WPF ComboBox\bin\Debug\net5.0-windows\WPF ComboBox.pdb
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass-Udemy\WPF ComboBox\WPF ComboBox\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass-Udemy\WPF ComboBox\WPF ComboBox\obj\Debug\net5.0-windows\WPF ComboBox_MarkupCompile.lref
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass-Udemy\WPF ComboBox\WPF ComboBox\obj\Debug\net5.0-windows\MainWindow.baml
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass-Udemy\WPF ComboBox\WPF ComboBox\obj\Debug\net5.0-windows\WPF ComboBox.g.resources
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass-Udemy\WPF ComboBox\WPF ComboBox\obj\Debug\net5.0-windows\WPF ComboBox.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass-Udemy\WPF ComboBox\WPF ComboBox\obj\Debug\net5.0-windows\WPF ComboBox.AssemblyInfoInputs.cache
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass-Udemy\WPF ComboBox\WPF ComboBox\obj\Debug\net5.0-windows\WPF ComboBox.AssemblyInfo.cs
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass-Udemy\WPF ComboBox\WPF ComboBox\obj\Debug\net5.0-windows\WPF ComboBox.csproj.CoreCompileInputs.cache
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass-Udemy\WPF ComboBox\WPF ComboBox\obj\Debug\net5.0-windows\WPF ComboBox.dll
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass-Udemy\WPF ComboBox\WPF ComboBox\obj\Debug\net5.0-windows\ref\WPF ComboBox.dll
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass-Udemy\WPF ComboBox\WPF ComboBox\obj\Debug\net5.0-windows\WPF ComboBox.pdb
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass-Udemy\WPF ComboBox\WPF ComboBox\obj\Debug\net5.0-windows\WPF ComboBox.genruntimeconfig.cache

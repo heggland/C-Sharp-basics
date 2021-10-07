@@ -1,0 +1,22 @@
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass-Udemy\WPF Databinding\WPF Databinding\obj\Debug\net5.0-windows\WPF Databinding.csproj.AssemblyReference.cache
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass-Udemy\WPF Databinding\WPF Databinding\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass-Udemy\WPF Databinding\WPF Databinding\obj\Debug\net5.0-windows\WPF Databinding_MarkupCompile.cache
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass-Udemy\WPF Databinding\WPF Databinding\bin\Debug\net5.0-windows\WPF Databinding.exe
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass-Udemy\WPF Databinding\WPF Databinding\bin\Debug\net5.0-windows\WPF Databinding.deps.json
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass-Udemy\WPF Databinding\WPF Databinding\bin\Debug\net5.0-windows\WPF Databinding.runtimeconfig.json
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass-Udemy\WPF Databinding\WPF Databinding\bin\Debug\net5.0-windows\WPF Databinding.runtimeconfig.dev.json
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass-Udemy\WPF Databinding\WPF Databinding\bin\Debug\net5.0-windows\WPF Databinding.dll
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass-Udemy\WPF Databinding\WPF Databinding\bin\Debug\net5.0-windows\ref\WPF Databinding.dll
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass-Udemy\WPF Databinding\WPF Databinding\bin\Debug\net5.0-windows\WPF Databinding.pdb
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass-Udemy\WPF Databinding\WPF Databinding\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass-Udemy\WPF Databinding\WPF Databinding\obj\Debug\net5.0-windows\WPF Databinding_MarkupCompile.lref
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass-Udemy\WPF Databinding\WPF Databinding\obj\Debug\net5.0-windows\MainWindow.baml
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass-Udemy\WPF Databinding\WPF Databinding\obj\Debug\net5.0-windows\WPF Databinding.g.resources
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass-Udemy\WPF Databinding\WPF Databinding\obj\Debug\net5.0-windows\WPF Databinding.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass-Udemy\WPF Databinding\WPF Databinding\obj\Debug\net5.0-windows\WPF Databinding.AssemblyInfoInputs.cache
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass-Udemy\WPF Databinding\WPF Databinding\obj\Debug\net5.0-windows\WPF Databinding.AssemblyInfo.cs
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass-Udemy\WPF Databinding\WPF Databinding\obj\Debug\net5.0-windows\WPF Databinding.csproj.CoreCompileInputs.cache
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass-Udemy\WPF Databinding\WPF Databinding\obj\Debug\net5.0-windows\WPF Databinding.dll
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass-Udemy\WPF Databinding\WPF Databinding\obj\Debug\net5.0-windows\ref\WPF Databinding.dll
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass-Udemy\WPF Databinding\WPF Databinding\obj\Debug\net5.0-windows\WPF Databinding.pdb
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass-Udemy\WPF Databinding\WPF Databinding\obj\Debug\net5.0-windows\WPF Databinding.genruntimeconfig.cache

@@ -1,0 +1,22 @@
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass-Udemy\WPF Events in XAML\WPF Events in XAML\bin\Debug\net5.0-windows\WPF Events in XAML.exe
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass-Udemy\WPF Events in XAML\WPF Events in XAML\bin\Debug\net5.0-windows\WPF Events in XAML.deps.json
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass-Udemy\WPF Events in XAML\WPF Events in XAML\bin\Debug\net5.0-windows\WPF Events in XAML.runtimeconfig.json
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass-Udemy\WPF Events in XAML\WPF Events in XAML\bin\Debug\net5.0-windows\WPF Events in XAML.runtimeconfig.dev.json
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass-Udemy\WPF Events in XAML\WPF Events in XAML\bin\Debug\net5.0-windows\WPF Events in XAML.dll
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass-Udemy\WPF Events in XAML\WPF Events in XAML\bin\Debug\net5.0-windows\ref\WPF Events in XAML.dll
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass-Udemy\WPF Events in XAML\WPF Events in XAML\bin\Debug\net5.0-windows\WPF Events in XAML.pdb
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass-Udemy\WPF Events in XAML\WPF Events in XAML\obj\Debug\net5.0-windows\WPF Events in XAML.csproj.AssemblyReference.cache
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass-Udemy\WPF Events in XAML\WPF Events in XAML\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass-Udemy\WPF Events in XAML\WPF Events in XAML\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass-Udemy\WPF Events in XAML\WPF Events in XAML\obj\Debug\net5.0-windows\WPF Events in XAML_MarkupCompile.cache
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass-Udemy\WPF Events in XAML\WPF Events in XAML\obj\Debug\net5.0-windows\WPF Events in XAML_MarkupCompile.lref
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass-Udemy\WPF Events in XAML\WPF Events in XAML\obj\Debug\net5.0-windows\MainWindow.baml
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass-Udemy\WPF Events in XAML\WPF Events in XAML\obj\Debug\net5.0-windows\WPF Events in XAML.g.resources
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass-Udemy\WPF Events in XAML\WPF Events in XAML\obj\Debug\net5.0-windows\WPF Events in XAML.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass-Udemy\WPF Events in XAML\WPF Events in XAML\obj\Debug\net5.0-windows\WPF Events in XAML.AssemblyInfoInputs.cache
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass-Udemy\WPF Events in XAML\WPF Events in XAML\obj\Debug\net5.0-windows\WPF Events in XAML.AssemblyInfo.cs
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass-Udemy\WPF Events in XAML\WPF Events in XAML\obj\Debug\net5.0-windows\WPF Events in XAML.csproj.CoreCompileInputs.cache
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass-Udemy\WPF Events in XAML\WPF Events in XAML\obj\Debug\net5.0-windows\WPF Events in XAML.dll
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass-Udemy\WPF Events in XAML\WPF Events in XAML\obj\Debug\net5.0-windows\ref\WPF Events in XAML.dll
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass-Udemy\WPF Events in XAML\WPF Events in XAML\obj\Debug\net5.0-windows\WPF Events in XAML.pdb
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass-Udemy\WPF Events in XAML\WPF Events in XAML\obj\Debug\net5.0-windows\WPF Events in XAML.genruntimeconfig.cache

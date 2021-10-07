@@ -1,0 +1,15 @@
+﻿<Window x:Class="WPF_Events_in_XAML.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WPF_Events_in_XAML"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Button Content="Button 1 - direct" Click="Button_Click" HorizontalAlignment="Center" VerticalAlignment="Top" FontSize="24" Margin="0,72,0,0"/>
+        <Button Content="Button 2 - bubbling" MouseUp="Button_MouseUp" HorizontalAlignment="Center" VerticalAlignment="Top" FontSize="24" Margin="0,145,0,0"/>
+        <Button Content="Button 2 - tunneling" PreviewMouseUp="Button_PreviewMouseUp" HorizontalAlignment="Center" VerticalAlignment="Top" FontSize="24" Margin="0,217,0,0"/>
+        <Button Content="Button - tunneling" PreviewMouseLeftButtonDown="Button_PreviewMouseLeftButtonDown" PreviewMouseRightButtonUp="Button_PreviewMouseRightButtonUp" HorizontalAlignment="Left" VerticalAlignment="Top" FontSize="24" Margin="238,897,0,0" Click="Button_Click_1"/>
+    </Grid>
+</Window>

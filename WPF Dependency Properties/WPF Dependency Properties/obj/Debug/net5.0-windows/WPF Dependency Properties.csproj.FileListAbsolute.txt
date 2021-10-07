@@ -1,0 +1,22 @@
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass-Udemy\WPF Dependency Properties\WPF Dependency Properties\bin\Debug\net5.0-windows\WPF Dependency Properties.exe
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass-Udemy\WPF Dependency Properties\WPF Dependency Properties\bin\Debug\net5.0-windows\WPF Dependency Properties.deps.json
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass-Udemy\WPF Dependency Properties\WPF Dependency Properties\bin\Debug\net5.0-windows\WPF Dependency Properties.runtimeconfig.json
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass-Udemy\WPF Dependency Properties\WPF Dependency Properties\bin\Debug\net5.0-windows\WPF Dependency Properties.runtimeconfig.dev.json
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass-Udemy\WPF Dependency Properties\WPF Dependency Properties\bin\Debug\net5.0-windows\WPF Dependency Properties.dll
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass-Udemy\WPF Dependency Properties\WPF Dependency Properties\bin\Debug\net5.0-windows\ref\WPF Dependency Properties.dll
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass-Udemy\WPF Dependency Properties\WPF Dependency Properties\bin\Debug\net5.0-windows\WPF Dependency Properties.pdb
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass-Udemy\WPF Dependency Properties\WPF Dependency Properties\obj\Debug\net5.0-windows\WPF Dependency Properties.csproj.AssemblyReference.cache
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass-Udemy\WPF Dependency Properties\WPF Dependency Properties\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass-Udemy\WPF Dependency Properties\WPF Dependency Properties\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass-Udemy\WPF Dependency Properties\WPF Dependency Properties\obj\Debug\net5.0-windows\WPF Dependency Properties_MarkupCompile.cache
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass-Udemy\WPF Dependency Properties\WPF Dependency Properties\obj\Debug\net5.0-windows\WPF Dependency Properties_MarkupCompile.lref
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass-Udemy\WPF Dependency Properties\WPF Dependency Properties\obj\Debug\net5.0-windows\MainWindow.baml
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass-Udemy\WPF Dependency Properties\WPF Dependency Properties\obj\Debug\net5.0-windows\WPF Dependency Properties.g.resources
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass-Udemy\WPF Dependency Properties\WPF Dependency Properties\obj\Debug\net5.0-windows\WPF Dependency Properties.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass-Udemy\WPF Dependency Properties\WPF Dependency Properties\obj\Debug\net5.0-windows\WPF Dependency Properties.AssemblyInfoInputs.cache
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass-Udemy\WPF Dependency Properties\WPF Dependency Properties\obj\Debug\net5.0-windows\WPF Dependency Properties.AssemblyInfo.cs
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass-Udemy\WPF Dependency Properties\WPF Dependency Properties\obj\Debug\net5.0-windows\WPF Dependency Properties.csproj.CoreCompileInputs.cache
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass-Udemy\WPF Dependency Properties\WPF Dependency Properties\obj\Debug\net5.0-windows\WPF Dependency Properties.dll
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass-Udemy\WPF Dependency Properties\WPF Dependency Properties\obj\Debug\net5.0-windows\ref\WPF Dependency Properties.dll
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass-Udemy\WPF Dependency Properties\WPF Dependency Properties\obj\Debug\net5.0-windows\WPF Dependency Properties.pdb
+C:\Users\heggland\Documents\GitHub\Complete-C-Sharp-Masterclass-Udemy\WPF Dependency Properties\WPF Dependency Properties\obj\Debug\net5.0-windows\WPF Dependency Properties.genruntimeconfig.cache

@@ -1,0 +1,22 @@
+﻿<Window x:Class="WPF_Databinding.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WPF_Databinding"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    
+    <!-- OneWay: target binding source, TwoWay target binding source, OneWayToSource target binding source, OneTime - done in constructor so only once during intialization -->
+    
+    <StackPanel>
+        <!-- Textbox is the target-->
+        <TextBox Name="MyTextBox" Width="100" Margin="50" Text="{Binding ElementName=MySlider, Path=Value, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}"></TextBox>
+        <!-- Slider is binding source -->
+        <Slider IsSnapToTickEnabled="True" Name="MySlider" Minimum="0" Maximum="100" Width="500"></Slider>
+
+        <TextBox Name="MyTextBox2" Width="100" Margin="50" Text="{Binding ElementName=MySlider2, Path=Background, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}"></TextBox>
+        <!-- Slider is binding source -->
+        <Slider IsSnapToTickEnabled="True" Name="MySlider2" Background="red" Minimum="0" Maximum="100" Width="500"></Slider>
+    </StackPanel>
+</Window>
