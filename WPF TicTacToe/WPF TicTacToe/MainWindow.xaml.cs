@@ -35,7 +35,9 @@ namespace WPF_TicTacToe
         private static char Winner = ' ';
         private static string WinnerName = "";
 
-        public MainWindow()
+
+
+    public MainWindow()
         {
             Console.ReadLine();
             InitializeComponent();
@@ -173,7 +175,7 @@ namespace WPF_TicTacToe
                 DoTurn(sender);
                 
             }
-            else if (ContentChar.Equals("X") || ContentChar.Equals("O"))
+            else if (ContentChar.Equals("X") && !Win  || ContentChar.Equals("O") && !Win)
             {
                 MessageBox.Show("Illegal move, try again.");
             }
@@ -260,7 +262,6 @@ namespace WPF_TicTacToe
             Win = false;
             WinMsg = true;
             Brikke = Player2;
-            WinnerName = "";
             WinnerName = "";
 
         // TODO: Clear GUI or simply reset it.
