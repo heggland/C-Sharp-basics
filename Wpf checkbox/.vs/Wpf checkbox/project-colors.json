@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "f485040f-90b7-4ad8-b2ae-16aefeb7f21e": {
+      "ProjectGuid": "f485040f-90b7-4ad8-b2ae-16aefeb7f21e",
+      "DisplayName": "Wpf checkbox",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

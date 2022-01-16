@@ -1,0 +1,21 @@
+C:\Users\kheggland\Documents\GitHub\Complete-C-Sharp-Masterclass-Udemy\Wpf checkbox\Wpf checkbox\bin\Debug\net6.0-windows\Wpf checkbox.exe
+C:\Users\kheggland\Documents\GitHub\Complete-C-Sharp-Masterclass-Udemy\Wpf checkbox\Wpf checkbox\bin\Debug\net6.0-windows\Wpf checkbox.deps.json
+C:\Users\kheggland\Documents\GitHub\Complete-C-Sharp-Masterclass-Udemy\Wpf checkbox\Wpf checkbox\bin\Debug\net6.0-windows\Wpf checkbox.runtimeconfig.json
+C:\Users\kheggland\Documents\GitHub\Complete-C-Sharp-Masterclass-Udemy\Wpf checkbox\Wpf checkbox\bin\Debug\net6.0-windows\Wpf checkbox.dll
+C:\Users\kheggland\Documents\GitHub\Complete-C-Sharp-Masterclass-Udemy\Wpf checkbox\Wpf checkbox\bin\Debug\net6.0-windows\ref\Wpf checkbox.dll
+C:\Users\kheggland\Documents\GitHub\Complete-C-Sharp-Masterclass-Udemy\Wpf checkbox\Wpf checkbox\bin\Debug\net6.0-windows\Wpf checkbox.pdb
+C:\Users\kheggland\Documents\GitHub\Complete-C-Sharp-Masterclass-Udemy\Wpf checkbox\Wpf checkbox\obj\Debug\net6.0-windows\Wpf checkbox.csproj.AssemblyReference.cache
+C:\Users\kheggland\Documents\GitHub\Complete-C-Sharp-Masterclass-Udemy\Wpf checkbox\Wpf checkbox\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\kheggland\Documents\GitHub\Complete-C-Sharp-Masterclass-Udemy\Wpf checkbox\Wpf checkbox\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\kheggland\Documents\GitHub\Complete-C-Sharp-Masterclass-Udemy\Wpf checkbox\Wpf checkbox\obj\Debug\net6.0-windows\Wpf checkbox_MarkupCompile.cache
+C:\Users\kheggland\Documents\GitHub\Complete-C-Sharp-Masterclass-Udemy\Wpf checkbox\Wpf checkbox\obj\Debug\net6.0-windows\Wpf checkbox_MarkupCompile.lref
+C:\Users\kheggland\Documents\GitHub\Complete-C-Sharp-Masterclass-Udemy\Wpf checkbox\Wpf checkbox\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\kheggland\Documents\GitHub\Complete-C-Sharp-Masterclass-Udemy\Wpf checkbox\Wpf checkbox\obj\Debug\net6.0-windows\Wpf checkbox.g.resources
+C:\Users\kheggland\Documents\GitHub\Complete-C-Sharp-Masterclass-Udemy\Wpf checkbox\Wpf checkbox\obj\Debug\net6.0-windows\Wpf checkbox.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kheggland\Documents\GitHub\Complete-C-Sharp-Masterclass-Udemy\Wpf checkbox\Wpf checkbox\obj\Debug\net6.0-windows\Wpf checkbox.AssemblyInfoInputs.cache
+C:\Users\kheggland\Documents\GitHub\Complete-C-Sharp-Masterclass-Udemy\Wpf checkbox\Wpf checkbox\obj\Debug\net6.0-windows\Wpf checkbox.AssemblyInfo.cs
+C:\Users\kheggland\Documents\GitHub\Complete-C-Sharp-Masterclass-Udemy\Wpf checkbox\Wpf checkbox\obj\Debug\net6.0-windows\Wpf checkbox.csproj.CoreCompileInputs.cache
+C:\Users\kheggland\Documents\GitHub\Complete-C-Sharp-Masterclass-Udemy\Wpf checkbox\Wpf checkbox\obj\Debug\net6.0-windows\Wpf checkbox.dll
+C:\Users\kheggland\Documents\GitHub\Complete-C-Sharp-Masterclass-Udemy\Wpf checkbox\Wpf checkbox\obj\Debug\net6.0-windows\ref\Wpf checkbox.dll
+C:\Users\kheggland\Documents\GitHub\Complete-C-Sharp-Masterclass-Udemy\Wpf checkbox\Wpf checkbox\obj\Debug\net6.0-windows\Wpf checkbox.pdb
+C:\Users\kheggland\Documents\GitHub\Complete-C-Sharp-Masterclass-Udemy\Wpf checkbox\Wpf checkbox\obj\Debug\net6.0-windows\Wpf checkbox.genruntimeconfig.cache

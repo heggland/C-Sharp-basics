@@ -1,0 +1,21 @@
+C:\Users\kheggland\Documents\GitHub\Complete-C-Sharp-Masterclass-Udemy\wpf tooltop\wpf tooltop\bin\Debug\net6.0-windows\wpf tooltop.exe
+C:\Users\kheggland\Documents\GitHub\Complete-C-Sharp-Masterclass-Udemy\wpf tooltop\wpf tooltop\bin\Debug\net6.0-windows\wpf tooltop.deps.json
+C:\Users\kheggland\Documents\GitHub\Complete-C-Sharp-Masterclass-Udemy\wpf tooltop\wpf tooltop\bin\Debug\net6.0-windows\wpf tooltop.runtimeconfig.json
+C:\Users\kheggland\Documents\GitHub\Complete-C-Sharp-Masterclass-Udemy\wpf tooltop\wpf tooltop\bin\Debug\net6.0-windows\wpf tooltop.dll
+C:\Users\kheggland\Documents\GitHub\Complete-C-Sharp-Masterclass-Udemy\wpf tooltop\wpf tooltop\bin\Debug\net6.0-windows\ref\wpf tooltop.dll
+C:\Users\kheggland\Documents\GitHub\Complete-C-Sharp-Masterclass-Udemy\wpf tooltop\wpf tooltop\bin\Debug\net6.0-windows\wpf tooltop.pdb
+C:\Users\kheggland\Documents\GitHub\Complete-C-Sharp-Masterclass-Udemy\wpf tooltop\wpf tooltop\obj\Debug\net6.0-windows\wpf tooltop.csproj.AssemblyReference.cache
+C:\Users\kheggland\Documents\GitHub\Complete-C-Sharp-Masterclass-Udemy\wpf tooltop\wpf tooltop\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\kheggland\Documents\GitHub\Complete-C-Sharp-Masterclass-Udemy\wpf tooltop\wpf tooltop\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\kheggland\Documents\GitHub\Complete-C-Sharp-Masterclass-Udemy\wpf tooltop\wpf tooltop\obj\Debug\net6.0-windows\wpf tooltop_MarkupCompile.cache
+C:\Users\kheggland\Documents\GitHub\Complete-C-Sharp-Masterclass-Udemy\wpf tooltop\wpf tooltop\obj\Debug\net6.0-windows\wpf tooltop_MarkupCompile.lref
+C:\Users\kheggland\Documents\GitHub\Complete-C-Sharp-Masterclass-Udemy\wpf tooltop\wpf tooltop\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\kheggland\Documents\GitHub\Complete-C-Sharp-Masterclass-Udemy\wpf tooltop\wpf tooltop\obj\Debug\net6.0-windows\wpf tooltop.g.resources
+C:\Users\kheggland\Documents\GitHub\Complete-C-Sharp-Masterclass-Udemy\wpf tooltop\wpf tooltop\obj\Debug\net6.0-windows\wpf tooltop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kheggland\Documents\GitHub\Complete-C-Sharp-Masterclass-Udemy\wpf tooltop\wpf tooltop\obj\Debug\net6.0-windows\wpf tooltop.AssemblyInfoInputs.cache
+C:\Users\kheggland\Documents\GitHub\Complete-C-Sharp-Masterclass-Udemy\wpf tooltop\wpf tooltop\obj\Debug\net6.0-windows\wpf tooltop.AssemblyInfo.cs
+C:\Users\kheggland\Documents\GitHub\Complete-C-Sharp-Masterclass-Udemy\wpf tooltop\wpf tooltop\obj\Debug\net6.0-windows\wpf tooltop.csproj.CoreCompileInputs.cache
+C:\Users\kheggland\Documents\GitHub\Complete-C-Sharp-Masterclass-Udemy\wpf tooltop\wpf tooltop\obj\Debug\net6.0-windows\wpf tooltop.dll
+C:\Users\kheggland\Documents\GitHub\Complete-C-Sharp-Masterclass-Udemy\wpf tooltop\wpf tooltop\obj\Debug\net6.0-windows\ref\wpf tooltop.dll
+C:\Users\kheggland\Documents\GitHub\Complete-C-Sharp-Masterclass-Udemy\wpf tooltop\wpf tooltop\obj\Debug\net6.0-windows\wpf tooltop.pdb
+C:\Users\kheggland\Documents\GitHub\Complete-C-Sharp-Masterclass-Udemy\wpf tooltop\wpf tooltop\obj\Debug\net6.0-windows\wpf tooltop.genruntimeconfig.cache

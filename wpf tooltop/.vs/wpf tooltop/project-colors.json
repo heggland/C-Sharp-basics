@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "ba1c1e76-274c-435d-9456-9fb139ab408f": {
+      "ProjectGuid": "ba1c1e76-274c-435d-9456-9fb139ab408f",
+      "DisplayName": "wpf tooltop",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
