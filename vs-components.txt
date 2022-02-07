@@ -1,0 +1,4 @@
+.net desktop development
+universial windows platform development
+all sql components
+linq to sql tools

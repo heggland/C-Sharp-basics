@@ -1,0 +1,21 @@
+C:\Users\kh\source\repos\WPF radiobuttons-img\WPF radiobuttons-img\bin\Debug\net6.0-windows\WPF radiobuttons-img.exe
+C:\Users\kh\source\repos\WPF radiobuttons-img\WPF radiobuttons-img\bin\Debug\net6.0-windows\WPF radiobuttons-img.deps.json
+C:\Users\kh\source\repos\WPF radiobuttons-img\WPF radiobuttons-img\bin\Debug\net6.0-windows\WPF radiobuttons-img.runtimeconfig.json
+C:\Users\kh\source\repos\WPF radiobuttons-img\WPF radiobuttons-img\bin\Debug\net6.0-windows\WPF radiobuttons-img.dll
+C:\Users\kh\source\repos\WPF radiobuttons-img\WPF radiobuttons-img\bin\Debug\net6.0-windows\ref\WPF radiobuttons-img.dll
+C:\Users\kh\source\repos\WPF radiobuttons-img\WPF radiobuttons-img\bin\Debug\net6.0-windows\WPF radiobuttons-img.pdb
+C:\Users\kh\source\repos\WPF radiobuttons-img\WPF radiobuttons-img\obj\Debug\net6.0-windows\WPF radiobuttons-img.csproj.AssemblyReference.cache
+C:\Users\kh\source\repos\WPF radiobuttons-img\WPF radiobuttons-img\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\kh\source\repos\WPF radiobuttons-img\WPF radiobuttons-img\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\kh\source\repos\WPF radiobuttons-img\WPF radiobuttons-img\obj\Debug\net6.0-windows\WPF radiobuttons-img_MarkupCompile.cache
+C:\Users\kh\source\repos\WPF radiobuttons-img\WPF radiobuttons-img\obj\Debug\net6.0-windows\WPF radiobuttons-img_MarkupCompile.lref
+C:\Users\kh\source\repos\WPF radiobuttons-img\WPF radiobuttons-img\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\kh\source\repos\WPF radiobuttons-img\WPF radiobuttons-img\obj\Debug\net6.0-windows\WPF radiobuttons-img.g.resources
+C:\Users\kh\source\repos\WPF radiobuttons-img\WPF radiobuttons-img\obj\Debug\net6.0-windows\WPF radiobuttons-img.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kh\source\repos\WPF radiobuttons-img\WPF radiobuttons-img\obj\Debug\net6.0-windows\WPF radiobuttons-img.AssemblyInfoInputs.cache
+C:\Users\kh\source\repos\WPF radiobuttons-img\WPF radiobuttons-img\obj\Debug\net6.0-windows\WPF radiobuttons-img.AssemblyInfo.cs
+C:\Users\kh\source\repos\WPF radiobuttons-img\WPF radiobuttons-img\obj\Debug\net6.0-windows\WPF radiobuttons-img.csproj.CoreCompileInputs.cache
+C:\Users\kh\source\repos\WPF radiobuttons-img\WPF radiobuttons-img\obj\Debug\net6.0-windows\WPF radiobuttons-img.dll
+C:\Users\kh\source\repos\WPF radiobuttons-img\WPF radiobuttons-img\obj\Debug\net6.0-windows\ref\WPF radiobuttons-img.dll
+C:\Users\kh\source\repos\WPF radiobuttons-img\WPF radiobuttons-img\obj\Debug\net6.0-windows\WPF radiobuttons-img.pdb
+C:\Users\kh\source\repos\WPF radiobuttons-img\WPF radiobuttons-img\obj\Debug\net6.0-windows\WPF radiobuttons-img.genruntimeconfig.cache

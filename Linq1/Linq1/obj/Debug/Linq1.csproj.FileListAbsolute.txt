@@ -1,0 +1,8 @@
+C:\Users\kh\Documents\GitHub\Complete-C-Sharp-Masterclass-Udemy\Linq1\Linq1\bin\Debug\Linq1.exe.config
+C:\Users\kh\Documents\GitHub\Complete-C-Sharp-Masterclass-Udemy\Linq1\Linq1\bin\Debug\Linq1.exe
+C:\Users\kh\Documents\GitHub\Complete-C-Sharp-Masterclass-Udemy\Linq1\Linq1\bin\Debug\Linq1.pdb
+C:\Users\kh\Documents\GitHub\Complete-C-Sharp-Masterclass-Udemy\Linq1\Linq1\obj\Debug\Linq1.csproj.AssemblyReference.cache
+C:\Users\kh\Documents\GitHub\Complete-C-Sharp-Masterclass-Udemy\Linq1\Linq1\obj\Debug\Linq1.csproj.SuggestedBindingRedirects.cache
+C:\Users\kh\Documents\GitHub\Complete-C-Sharp-Masterclass-Udemy\Linq1\Linq1\obj\Debug\Linq1.csproj.CoreCompileInputs.cache
+C:\Users\kh\Documents\GitHub\Complete-C-Sharp-Masterclass-Udemy\Linq1\Linq1\obj\Debug\Linq1.exe
+C:\Users\kh\Documents\GitHub\Complete-C-Sharp-Masterclass-Udemy\Linq1\Linq1\obj\Debug\Linq1.pdb

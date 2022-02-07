@@ -1,0 +1,8 @@
+C:\Users\kh\Documents\GitHub\Complete-C-Sharp-Masterclass-Udemy\LinqWithXML\LinqWithXML\bin\Debug\LinqWithXML.exe.config
+C:\Users\kh\Documents\GitHub\Complete-C-Sharp-Masterclass-Udemy\LinqWithXML\LinqWithXML\bin\Debug\LinqWithXML.exe
+C:\Users\kh\Documents\GitHub\Complete-C-Sharp-Masterclass-Udemy\LinqWithXML\LinqWithXML\bin\Debug\LinqWithXML.pdb
+C:\Users\kh\Documents\GitHub\Complete-C-Sharp-Masterclass-Udemy\LinqWithXML\LinqWithXML\obj\Debug\LinqWithXML.csproj.AssemblyReference.cache
+C:\Users\kh\Documents\GitHub\Complete-C-Sharp-Masterclass-Udemy\LinqWithXML\LinqWithXML\obj\Debug\LinqWithXML.csproj.SuggestedBindingRedirects.cache
+C:\Users\kh\Documents\GitHub\Complete-C-Sharp-Masterclass-Udemy\LinqWithXML\LinqWithXML\obj\Debug\LinqWithXML.csproj.CoreCompileInputs.cache
+C:\Users\kh\Documents\GitHub\Complete-C-Sharp-Masterclass-Udemy\LinqWithXML\LinqWithXML\obj\Debug\LinqWithXML.exe
+C:\Users\kh\Documents\GitHub\Complete-C-Sharp-Masterclass-Udemy\LinqWithXML\LinqWithXML\obj\Debug\LinqWithXML.pdb

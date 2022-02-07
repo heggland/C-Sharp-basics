@@ -1,0 +1,8 @@
+C:\Users\kh\Documents\GitHub\Complete-C-Sharp-Masterclass-Udemy\Threading\Threading\bin\Debug\Threading.exe.config
+C:\Users\kh\Documents\GitHub\Complete-C-Sharp-Masterclass-Udemy\Threading\Threading\bin\Debug\Threading.exe
+C:\Users\kh\Documents\GitHub\Complete-C-Sharp-Masterclass-Udemy\Threading\Threading\bin\Debug\Threading.pdb
+C:\Users\kh\Documents\GitHub\Complete-C-Sharp-Masterclass-Udemy\Threading\Threading\obj\Debug\Threading.csproj.AssemblyReference.cache
+C:\Users\kh\Documents\GitHub\Complete-C-Sharp-Masterclass-Udemy\Threading\Threading\obj\Debug\Threading.csproj.SuggestedBindingRedirects.cache
+C:\Users\kh\Documents\GitHub\Complete-C-Sharp-Masterclass-Udemy\Threading\Threading\obj\Debug\Threading.csproj.CoreCompileInputs.cache
+C:\Users\kh\Documents\GitHub\Complete-C-Sharp-Masterclass-Udemy\Threading\Threading\obj\Debug\Threading.exe
+C:\Users\kh\Documents\GitHub\Complete-C-Sharp-Masterclass-Udemy\Threading\Threading\obj\Debug\Threading.pdb

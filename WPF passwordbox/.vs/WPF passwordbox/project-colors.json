@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "07297953-2204-4a68-94bb-0a82088788cd": {
+      "ProjectGuid": "07297953-2204-4a68-94bb-0a82088788cd",
+      "DisplayName": "WPF passwordbox",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

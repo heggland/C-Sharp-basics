@@ -1,0 +1,21 @@
+C:\Users\kh\source\repos\WPF property, data, event triggers\WPF property, data, event triggers\bin\Debug\net6.0-windows\WPF property, data, event triggers.exe
+C:\Users\kh\source\repos\WPF property, data, event triggers\WPF property, data, event triggers\bin\Debug\net6.0-windows\WPF property, data, event triggers.deps.json
+C:\Users\kh\source\repos\WPF property, data, event triggers\WPF property, data, event triggers\bin\Debug\net6.0-windows\WPF property, data, event triggers.runtimeconfig.json
+C:\Users\kh\source\repos\WPF property, data, event triggers\WPF property, data, event triggers\bin\Debug\net6.0-windows\WPF property, data, event triggers.dll
+C:\Users\kh\source\repos\WPF property, data, event triggers\WPF property, data, event triggers\bin\Debug\net6.0-windows\ref\WPF property, data, event triggers.dll
+C:\Users\kh\source\repos\WPF property, data, event triggers\WPF property, data, event triggers\bin\Debug\net6.0-windows\WPF property, data, event triggers.pdb
+C:\Users\kh\source\repos\WPF property, data, event triggers\WPF property, data, event triggers\obj\Debug\net6.0-windows\WPF property, data, event triggers.csproj.AssemblyReference.cache
+C:\Users\kh\source\repos\WPF property, data, event triggers\WPF property, data, event triggers\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\kh\source\repos\WPF property, data, event triggers\WPF property, data, event triggers\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\kh\source\repos\WPF property, data, event triggers\WPF property, data, event triggers\obj\Debug\net6.0-windows\WPF property, data, event triggers_MarkupCompile.cache
+C:\Users\kh\source\repos\WPF property, data, event triggers\WPF property, data, event triggers\obj\Debug\net6.0-windows\WPF property, data, event triggers_MarkupCompile.lref
+C:\Users\kh\source\repos\WPF property, data, event triggers\WPF property, data, event triggers\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\kh\source\repos\WPF property, data, event triggers\WPF property, data, event triggers\obj\Debug\net6.0-windows\WPF property, data, event triggers.g.resources
+C:\Users\kh\source\repos\WPF property, data, event triggers\WPF property, data, event triggers\obj\Debug\net6.0-windows\WPF property, data, event triggers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kh\source\repos\WPF property, data, event triggers\WPF property, data, event triggers\obj\Debug\net6.0-windows\WPF property, data, event triggers.AssemblyInfoInputs.cache
+C:\Users\kh\source\repos\WPF property, data, event triggers\WPF property, data, event triggers\obj\Debug\net6.0-windows\WPF property, data, event triggers.AssemblyInfo.cs
+C:\Users\kh\source\repos\WPF property, data, event triggers\WPF property, data, event triggers\obj\Debug\net6.0-windows\WPF property, data, event triggers.csproj.CoreCompileInputs.cache
+C:\Users\kh\source\repos\WPF property, data, event triggers\WPF property, data, event triggers\obj\Debug\net6.0-windows\WPF property, data, event triggers.dll
+C:\Users\kh\source\repos\WPF property, data, event triggers\WPF property, data, event triggers\obj\Debug\net6.0-windows\ref\WPF property, data, event triggers.dll
+C:\Users\kh\source\repos\WPF property, data, event triggers\WPF property, data, event triggers\obj\Debug\net6.0-windows\WPF property, data, event triggers.pdb
+C:\Users\kh\source\repos\WPF property, data, event triggers\WPF property, data, event triggers\obj\Debug\net6.0-windows\WPF property, data, event triggers.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\kh\Documents\GitHub\Complete-C-Sharp-Masterclass-Udemy\LinqToSQL\LinqToSQL\bin\Debug\LinqToSQL.exe.config
+C:\Users\kh\Documents\GitHub\Complete-C-Sharp-Masterclass-Udemy\LinqToSQL\LinqToSQL\bin\Debug\LinqToSQL.exe
+C:\Users\kh\Documents\GitHub\Complete-C-Sharp-Masterclass-Udemy\LinqToSQL\LinqToSQL\bin\Debug\LinqToSQL.pdb
+C:\Users\kh\Documents\GitHub\Complete-C-Sharp-Masterclass-Udemy\LinqToSQL\LinqToSQL\obj\Debug\LinqToSQL.csproj.AssemblyReference.cache
+C:\Users\kh\Documents\GitHub\Complete-C-Sharp-Masterclass-Udemy\LinqToSQL\LinqToSQL\obj\Debug\LinqToSQL.csproj.SuggestedBindingRedirects.cache
+C:\Users\kh\Documents\GitHub\Complete-C-Sharp-Masterclass-Udemy\LinqToSQL\LinqToSQL\obj\Debug\MainWindow.g.cs
+C:\Users\kh\Documents\GitHub\Complete-C-Sharp-Masterclass-Udemy\LinqToSQL\LinqToSQL\obj\Debug\App.g.cs
+C:\Users\kh\Documents\GitHub\Complete-C-Sharp-Masterclass-Udemy\LinqToSQL\LinqToSQL\obj\Debug\LinqToSQL_MarkupCompile.cache
+C:\Users\kh\Documents\GitHub\Complete-C-Sharp-Masterclass-Udemy\LinqToSQL\LinqToSQL\obj\Debug\LinqToSQL_MarkupCompile.lref
+C:\Users\kh\Documents\GitHub\Complete-C-Sharp-Masterclass-Udemy\LinqToSQL\LinqToSQL\obj\Debug\MainWindow.baml
+C:\Users\kh\Documents\GitHub\Complete-C-Sharp-Masterclass-Udemy\LinqToSQL\LinqToSQL\obj\Debug\LinqToSQL.g.resources
+C:\Users\kh\Documents\GitHub\Complete-C-Sharp-Masterclass-Udemy\LinqToSQL\LinqToSQL\obj\Debug\LinqToSQL.Properties.Resources.resources
+C:\Users\kh\Documents\GitHub\Complete-C-Sharp-Masterclass-Udemy\LinqToSQL\LinqToSQL\obj\Debug\LinqToSQL.csproj.GenerateResource.cache
+C:\Users\kh\Documents\GitHub\Complete-C-Sharp-Masterclass-Udemy\LinqToSQL\LinqToSQL\obj\Debug\LinqToSQL.csproj.CoreCompileInputs.cache
+C:\Users\kh\Documents\GitHub\Complete-C-Sharp-Masterclass-Udemy\LinqToSQL\LinqToSQL\obj\Debug\LinqToSQL.exe
+C:\Users\kh\Documents\GitHub\Complete-C-Sharp-Masterclass-Udemy\LinqToSQL\LinqToSQL\obj\Debug\LinqToSQL.pdb

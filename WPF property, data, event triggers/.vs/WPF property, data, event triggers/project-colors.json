@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "51c2f43c-5ae0-4bba-b347-3cd53f810867": {
+      "ProjectGuid": "51c2f43c-5ae0-4bba-b347-3cd53f810867",
+      "DisplayName": "WPF property, data, event triggers",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

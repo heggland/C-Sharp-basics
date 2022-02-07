@@ -1,0 +1,8 @@
+C:\Users\kh\Documents\GitHub\Complete-C-Sharp-Masterclass-Udemy\LinqToObjectAndQueryOperators\LinqToObjectAndQueryOperators\obj\Debug\LinqToObjectAndQueryOperators.csproj.SuggestedBindingRedirects.cache
+C:\Users\kh\Documents\GitHub\Complete-C-Sharp-Masterclass-Udemy\LinqToObjectAndQueryOperators\LinqToObjectAndQueryOperators\obj\Debug\LinqToObjectAndQueryOperators.csproj.CoreCompileInputs.cache
+C:\Users\kh\Documents\GitHub\Complete-C-Sharp-Masterclass-Udemy\LinqToObjectAndQueryOperators\LinqToObjectAndQueryOperators\bin\Debug\LinqToObjectAndQueryOperators.exe.config
+C:\Users\kh\Documents\GitHub\Complete-C-Sharp-Masterclass-Udemy\LinqToObjectAndQueryOperators\LinqToObjectAndQueryOperators\bin\Debug\LinqToObjectAndQueryOperators.exe
+C:\Users\kh\Documents\GitHub\Complete-C-Sharp-Masterclass-Udemy\LinqToObjectAndQueryOperators\LinqToObjectAndQueryOperators\bin\Debug\LinqToObjectAndQueryOperators.pdb
+C:\Users\kh\Documents\GitHub\Complete-C-Sharp-Masterclass-Udemy\LinqToObjectAndQueryOperators\LinqToObjectAndQueryOperators\obj\Debug\LinqToObjectAndQueryOperators.exe
+C:\Users\kh\Documents\GitHub\Complete-C-Sharp-Masterclass-Udemy\LinqToObjectAndQueryOperators\LinqToObjectAndQueryOperators\obj\Debug\LinqToObjectAndQueryOperators.pdb
+C:\Users\kh\Documents\GitHub\Complete-C-Sharp-Masterclass-Udemy\LinqToObjectAndQueryOperators\LinqToObjectAndQueryOperators\obj\Debug\LinqToObjectAndQueryOperators.csproj.AssemblyReference.cache
