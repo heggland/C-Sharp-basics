@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "yXpVH8E00YFXeNJBtple7q/FqYaGt1Gu4VOMM2G+FUqsb+xzUg/ngaPcsDxjjYfWIjdOKKmTA2+eWFyWZTiWLw==",
+  "dgSpecHash": "AN/KVNZv7HOKQgrJV1ZObV/STQoFFSk7T5cthlkPQRuj+hYzXonmN8R7YTtSbntevivn7t6sCvAEl0O0L/rHQA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\heggland\\Documents\\GitHub\\Complete-C-Sharp-Masterclass-Udemy\\WPF TicTacToe\\WPF TicTacToe\\WPF TicTacToe.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\hk\\Documents\\GitHub\\C-Sharp-basics\\WPF TicTacToe\\WPF TicTacToe\\WPF TicTacToe.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hk\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512",
+    "C:\\Users\\hk\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\hk\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\hk\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
+  ],
   "logs": []
 }

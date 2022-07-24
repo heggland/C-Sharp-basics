@@ -7,7 +7,7 @@ public class TextBehaviour : MonoBehaviour
 {
 
     public Text myText;
-    int textNumber = 0;
+    int score = 0;
 
     // Start is called before the first frame update
     void Start()
@@ -18,14 +18,10 @@ public class TextBehaviour : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        if (Input.GetKeyDown(KeyCode.Space))
-        {
-            textNumber++;
-            myText.text = textNumber.ToString();
-        } else
-        {
-            //myText.text = Input.GetKey()
-                // .ToString();
-        }
+        if (!Input.GetKeyDown(KeyCode.Space)) return;
+
+        score++;
+        myText.text = score.ToString();
+
     }
 }
